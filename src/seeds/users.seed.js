@@ -4,30 +4,38 @@ const mongoose = require('mongoose');
 const arrayUsers = [
     
     {
-        "email": "nerea@gmail.com",
-        "password": "Nerea123$",
-        "role": "admin"
+        "Username": "Nerea",
+        "Email": "nerea@gmail.com",
+        "Password": "Nerea123$",
+        "Favoritos": [],
+        "Role": "admin"
     },
     {
-        "email": "xavi@gmail.com",
-        "password": "Xavi123$",
-        "role": "admin"
+        "Username": "Xavi",
+        "Email": "xavi@gmail.com",
+        "Password": "Xavi123$",
+        "Favoritos": [],
+        "Role": "admin"
     },
     {
-        "email": "bogdan@gmail.com",
-        "password": "Bogdan123$",
-        "role": "admin"
+        "Username": "Santi",
+        "Email": "santi@gmail.com",
+        "Password": "Santi123$",
+        "Favoritos": [],
+        "Role": "admin"
     },
     {
-        "email": "rodrigo@gmail.com",
-        "password": "Rodrigo123$",
-        "role": "admin"
+        "Username": "Cristian",
+        "Email": "cristian@gmail.com",
+        "Password": "Cristian123$",
+        "Favoritos": [],
+        "Role": "admin"
     },
 
 ]
 
 
-mongoose.connect('mongodb+srv://root:root@cluster0.8phs6yk.mongodb.net/MyAPI?retryWrites=true&w=majority')
+mongoose.connect('mongodb+srv://root:root@cluster0.oc2ykpm.mongodb.net/StreamHub?retryWrites=true&w=majority')
 .then(async () => {
     const allusers = await User.find()
     if(allusers.length > 0){

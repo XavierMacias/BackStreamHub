@@ -10,7 +10,7 @@
     "series-seed": "node ./src/seeds/series.seed.js",
     "capitulos-seed": "node ./src/seeds/capitulos.seed.js",
     "libros-seed": "node ./src/seeds/libros.seed.js",
-    "spas-seed": "node ./src/seeds/spas.seed.js",
+    "peliculas-seed": "node ./src/seeds/peliculas.seed.js",
     "users-seed": "node ./src/seeds/users.seed.js"
   },
   "keywords": [],

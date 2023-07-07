@@ -7,35 +7,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "¡Soy Luffy! ¡El hombre que se convertirá en el Rey de los Piratas!",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Luffy empieza su aventura para ser el rey de los piratas y conoce a un tímido joven llamado Koby."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "¡Aparece el gran espadachín! ¡El cazador de piratas, Roronoa Zoro!",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Luffy y Koby llegan a Shell Town, una ciudad que está gobernada por un Marine tirano llamado Morgan, y su hijo Helmeppo."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "¡Morgan vs. Luffy! ¿Quién es esa guapa muchacha?",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Luffy derrota a Morgan y logra reclutar al espadachín Roronoa Zoro para su tripulación."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "¡El pasado de Luffy! ¡Aparece el pelirrojo Shanks!",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Descubrimos el pasado y motivaciones de Luffy para convertirse en pirata."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "¡Teme el misterioso poder! ¡El capitán payaso Buggy!",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Luffy y Zoro llegan a otro pueblo donde se encuentran con el peligroso capitán Buggy."
     },
@@ -44,35 +44,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Sukuna de la Doble Cara",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Yuji Itadori es un estudiante de secundaria. La noche del día que fallece su abuelo, conoce a Megumi, un estudiante de primer año en el Colegio Técnico de Magia Metropolitana de Tokio que se encuentra en una misión para recuperar un objeto que se encuentra en posesión de Itadori."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Por Mí o Por Mí Mismo",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Satoru Gojo, un profesor del Colegio Técnico de Magia Metropolitana de Tokio, se presenta ante Yuji Itadori quien despierta y se encuentra en una habitación extraña donde se llevará a cabo su ejecución secreta."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Chica de Acero",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Yuji Itadori, Megumi Fushiguro y Satoru Gojo se reúnen con la tercera estudiante de primer año del Colegio Técnico de Magia Metropolitana de Tokio, Nobara Kugisaki."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "La Existencia Terrenal del Útero Maldito",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Yuji, Megumi y Nobara son enviados a una misión de último momento en el Centro de Detención de Eishu donde deberán identificar y rescatar a todos los sobrevivientes que quedaron atrapados junto a un útero maldito que, eventualmente, podría convertirse en un espíritu maldito de grado especial."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "La Existencia Terrenal del Útero Maldito, Parte 2",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Sukuna se apodera del cuerpo de Itadori y se niega por completo a devolvérselo. Aunque sabe que tarde o temprano lo conseguirá, así que le dejará un regalo."
     },
@@ -81,35 +81,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Crueldad",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Tanjiro es un joven muy trabajador que se esfuerza mucho por cuidar de su madre y sus hermanos, pero cuando volvió de vender carbón, es detenido por un señor que le advierte sobre los Demonios, los cuales aparecen de noche. Al día siguiente, Tanjiro vuelve a su casa y se encuentra una escena inesperada."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El instructor, Sakonji Urokodaki",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Tanjiro y Nezuko continúan su viaje para volver a Nezuko humana. Al llegar a un santuario, Tanjiro lucha contra un demonio que comía los restos de un cadáver, pero cuando se ve acorralado, recibe ayuda de Nezuko y todo esto era observado por un extraño señor con una máscara roja."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Sabito y Makomo",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Tanjiro sigue el duro entrenamiento que le había dejado Sakonji, tras enfrentar una prueba que cree que no puede superar, una chica aparece para aconsejarle sobre la Respiración del Agua y así, se la pasa entrenando por varias semanas."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Selección final",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Sakonji felicita a Tanjiro por haber superado su última prueba y le deja participar en la Selección Final, prueba en la cual los Cazadores de Demonios, se enfrentan en campo abierto contra Demonios."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Tu acero",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Tanjiro logra superar la Selección Final, este tiene que decidir el material con el cual forjar su espada de Cazador de Demonios, la Nichirin, tras escogerlo, vuelve donde Urokodaki."
     },
@@ -118,35 +118,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Perro y Motosierra",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Denji es un chico que vive como cazador de demonios que, para pagar las deudas dejadas por sus padres, vivió una vida pobre mientras cumplía con las solicitudes de la yakuza, acompañado de Pochita, el Demonio Motosierra."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El lugar donde está Pochita",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Mientras van en el coche, el estómago de Denji gruñe y Makima se ofrece a comprarle algo de comida y como está sin camiseta, también le da su abrigo."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Llegada a Tokyo",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Makima lleva a Denji al Cuartel General de los Cazadores de Demonios de Tokyo y le explica sobre la Seguridad Pública de los Cazadores de Demonios."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Power",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Denji y Aki comienzan a vivir juntos, pero Aki se molesta por el desorden que hace Denji y la cantidad de tiempo que usa el baño. Aki recibe una llamada por la aparición de un hombre-demonio y van a investigar."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Una manera de tocar pechos",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Denji y Power están patrullando, pero Power teniendo sed de sangre, golpea a Denji en la cabeza y le dice que la deje matar algo. Denji la ignora y mientras se pregunta cómo va a encontrar la manera de tocarle las tetas."
     },
@@ -155,35 +155,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "A ti, dentro de 2000 años",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Año 845, la aparición de un Titán Colosal provocó el avance de los titanes regulares hacia el distrito de Shiganshina, por lo que las fuerzas armadas y de reconocimiento no pudieron con ellas causando el exterminio de la mitad de la población en la muralla de María."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Aquel día",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Luego de la gran caída del distrito de Shiganshina en la muralla de María, la humanidad al igual que Eren, Mikasa y su amigo, Armin se dirigen al distrito de Trost en varios barcos para poder sobrevivir, sin embargo, un titán de proporciones inimaginables aparece en la muralla de María para destruir la parte final."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Una tenue luz en la desesperación",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Este episodio muestra las primeras prácticas en el equipo de maniobras tridimensionales de los personajes principales e introduce al resto de los miembros de la tropa de reclutas del ciclo Nº104."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "La noche de la desbandada",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Es el gran momento que Eren esperó por tanto tiempo, el día en que su entrenamiento comenzaría. Ahora todos están unidos demostrando sus fuerzas para poder convertirse en soldados."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "La primera batalla",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Nuevamente ha aparecido el Titán Colosal, y con él, un nuevo abismo se abre ante los ojos de los habitantes de la muralla. La paz que parecía triunfar se ve derrocada, ahora es cuando todos deberán enfrentarse a sus máximos temores."
     },
@@ -192,35 +192,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Las reglas del juego",
-        "Duración": 62,
+        "Duracion": 62,
         "Temporada": 1,
         "Descripcion": "Hughie Campbell, vendedor en una tienda de productos audiovisuales, tras ver como un súper mata al amor de su vida, se junta con Billy Carnicero, un vigilante empeñado en castigar a los súpers corruptos."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Cherry",
-        "Duración": 61,
+        "Duracion": 61,
         "Temporada": 1,
         "Descripcion": "The Boys capturan a un superhéroe, Luz Estelar se venga, Patriota se vuelve travieso y un senador se vuelve todavía más travieso."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Moja (El Compuesto V)",
-        "Duración": 58,
+        "Duracion": 58,
         "Temporada": 1,
         "Descripcion": "Es la carrera del siglo. A-Tren y Shockwave compiten por ser el hombre más rápido del mundo. Mientras tanto, The Boys vuelven a reunirse y están mejor que nunca."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "La hembra de la especie",
-        "Duración": 59,
+        "Duracion": 59,
         "Temporada": 1,
         "Descripcion": "En un episodio muy especial de The Boys... una hora de vísceras, bolos, aviones secuestrados, locura, fantasmas y una Hembra muy misteriosa."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Bueno para el alma",
-        "Duración": 63,
+        "Duracion": 63,
         "Temporada": 1,
         "Descripcion": "The Boys acuden a la Feria de Fe para seguir una pista prometedora en su guerra contra los súpers. Tal vez haya… TAL VEZ haya un bebé homicida, pero tendréis que verlo por vosotros mismos."
     },
@@ -229,35 +229,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Halcón",
-        "Duración": 65,
+        "Duracion": 65,
         "Temporada": 3,
         "Descripcion": "Jack Ryan investiga un plan secreto para restaurar el imperio soviético mediante una guerra."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Viejas guaridas",
-        "Duración": 52,
+        "Duracion": 52,
         "Temporada": 3,
         "Descripcion": "Jack, expuesto y a la fuga después de las consecuencias de su operación fallida en Grecia, debe evitar a las autoridades tanto extranjeras como de su propio país, antes de recibir ayuda de un viejo amigo."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Corriendo con lobos",
-        "Duración": 46,
+        "Duracion": 46,
         "Temporada": 3,
         "Descripcion": "Jack viaja a Viena para rastrear la fuente de su información inicial sobre Sokol. Greer asesora a Alena sobre un acuerdo clave de la OTAN."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El guardián de nuestra muerte",
-        "Duración": 49,
+        "Duracion": 49,
         "Temporada": 3,
         "Descripcion": "En Budapest, Jack y Mike organizan una trampa para un escurridizo traficante de armas. El objetivo es determinar el paradero del arma nuclear de Sokol."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Druz'ya I Vragi",
-        "Duración": 49,
+        "Duracion": 49,
         "Temporada": 3,
         "Descripcion": "Jack y Mike se dirigen a unas instalaciones secretas abandonadas en Rusia para apoderarse del arma nuclear de Sokol, pero un visitante inesperado frustra sus planes."
     },
@@ -266,35 +266,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El enigma humano",
-        "Duración": 42,
+        "Duracion": 42,
         "Temporada": 1,
         "Descripcion": "En el primer capítulo, Mason Kane y Nadia Sinh, los mejores agentes de la agencia Citadel, se enfrentan a Manticore, una nueva e infame organización, y todo acaba en catástrofe."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Los espías aparecen por la noche",
-        "Duración": 40,
+        "Duracion": 40,
         "Temporada": 1,
         "Descripcion": "Kyle y Bernard viajan a Nueva York para robar el maletín X de la sede de Manticore antes de que sea demasiado tarde."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Sombras infinitas",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "Cuando Kyle y Nadia llegan a un antiguo refugio, empiezan a resurgir pequeñas pistas sobre su pasado común. Pronto, descubren que un antiguo aliado que puede ser clave para frenar a Manticore está preso en Marruecos."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Cuéntaselo todo",
-        "Duración": 39,
+        "Duracion": 39,
         "Temporada": 1,
         "Descripcion": "Tras la impactante revelación sobre la antigua identidad secreta de Abby, conocemos los antiguos vínculos entre Mason, Nadia y Celeste y una terrible decisión cuyos ecos aún resuenan."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El tiempo nos vuelve enemigos",
-        "Duración": 39,
+        "Duracion": 39,
         "Temporada": 1,
         "Descripcion": "Nadia, Kyle y Carter se ven obligados a colaborar para escapar de Manticore y proteger el maletín X, pero las sospechas que se ciernen sobre uno de nuestros héroes llegan a su punto álgido, culminando en un desenlace explosivo."
     },
@@ -303,35 +303,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Bienvenido a Margrave",
-        "Duración": 54,
+        "Duracion": 54,
         "Temporada": 1,
         "Descripcion": "A Reacher lo acusan por error de asesinato mientras visita el pequeño pueblo de Margrave, Georgia."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El primer baile",
-        "Duración": 53,
+        "Duracion": 53,
         "Temporada": 1,
         "Descripcion": "Cuando aparecen más víctimas, Reacher intenta obtener respuestas, pero le tienden una trampa. Roscoe recibe una amenaza."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Una cucharada",
-        "Duración": 48,
+        "Duracion": 48,
         "Temporada": 1,
         "Descripcion": "La investigación de Reacher y Finlay sobre el desaparecido Spivey provoca un enfrentamiento con Kliner padre. Roscoe descubre datos inquietantes sobre Reacher."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "En un árbol",
-        "Duración": 47,
+        "Duracion": 47,
         "Temporada": 1,
         "Descripcion": "A medida que aumenta el peligro, Reacher y Roscoe estrechan su lazo y planean reunirse con su contacto en Seguridad Nacional."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Sin disculpas",
-        "Duración": 49,
+        "Duracion": 49,
         "Temporada": 1,
         "Descripcion": "A medida que el misterio se agranda, Reacher recurre a una antigua colega y Finlay hace un descubrimiento impactante."
     },
@@ -340,35 +340,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Un mal día",
-        "Duración": 73,
+        "Duracion": 73,
         "Temporada": 1,
         "Descripcion": "Macarena recibe las amenazas de Zulema: la egipcia quiere evitar que la nueva cuente que ambas fueron las últimas en ver con vida a la presa asesinada."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Cosiendo a campanilla",
-        "Duración": 70,
+        "Duracion": 70,
         "Temporada": 1,
         "Descripcion": "Macarena parece no haber aprendido que si pides favores en la cárcel, tarde o temprano los tendrás que pagar."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Lo que sucede, conviene",
-        "Duración": 74,
+        "Duracion": 74,
         "Temporada": 1,
         "Descripcion": "Zulema tiene muy claro cómo fugarse, pero para ello necesita mucho dinero. Piensa que Macarena tiene los nueve millones de Yolanda y no duda en hacer un trato con la novata."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Un día de campo",
-        "Duración": 70,
+        "Duracion": 70,
         "Temporada": 1,
         "Descripcion": "¿Qué ha ocurrido? ¿Por qué Macarena va sin esposas? ¿Por qué lleva una pistola en la mano? ¿Por qué está llena de sangre? Parece que finalmente van a conceder el tercer grado a Rizos."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "La cruda realidad",
-        "Duración": 78,
+        "Duracion": 78,
         "Temporada": 1,
         "Descripcion": "La directora está convencida de que a Tere le han estado vendiendo heroína y que la responsable es Anabel. Macarena recibe la visita de sus padres y les confiesa que van a ser abuelos."
     },
@@ -377,35 +377,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Pilot",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Michael intenta ahorrarle un disgusto a los empleados callándose la noticia de una posible reducción de plantilla y lo único que conseguirá es ponerles aún más nerviosos cuando éstos se enteren."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El día de la diversidad",
-        "Duración": 22,
+        "Duracion": 22,
         "Temporada": 1,
         "Descripcion": "El ofensivo comportamiento de Michael lleva a la empresa a organizar un seminario sobre tolerancia racial y diversidad."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El seguro médico",
-        "Duración": 22,
+        "Duracion": 22,
         "Temporada": 1,
         "Descripcion": "Cuando se vea obligado a elegir un seguro médico más barato, Michael le pasará la responsabilidad a Dwight, antes que perder popularidad entre sus empleados."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El pacto",
-        "Duración": 22,
+        "Duracion": 22,
         "Temporada": 1,
         "Descripcion": "En medio de los rumores sobre la reducción de la plantilla, Michael trata de levantar la moral de los empleados con una fiesta de cumpleaños, aunque nadie cumple años."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Baloncesto",
-        "Duración": 22,
+        "Duracion": 22,
         "Temporada": 1,
         "Descripcion": "Michael y compañía juegan un poco amistoso partido de baloncesto contra los empleados del almacén. Rezumando seguridad, Michael hace una apuesta: el equipo perdedor tendrá que trabajar el sábado."
     },
@@ -414,35 +414,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Tengo piso",
-        "Duración": 29,
+        "Duracion": 29,
         "Temporada": 1,
         "Descripcion": "Josep López es locutor de radio en una emisora local. A sus treinta y cuatro años se da cuenta de que debe independizarse y empieza a buscarse un piso."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Tengo miedo",
-        "Duración": 24,
+        "Duracion": 24,
         "Temporada": 1,
         "Descripcion": "David y López se enteran de que a Emma le dan miedo las películas de terror y deciden aprovecharse. Esa noche, Emma va a quedarse a dormir en su piso y ellos traman un plan para hacer un trío con ella creyendo que ella aceptará a la primera."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Tengo envidia",
-        "Duración": 30,
+        "Duracion": 30,
         "Temporada": 1,
         "Descripcion": "Un nuevo becario llega a la radio en la que trabaja López. Es un chico que no acaba de funcionar; López intenta ayudarle pero lo único que consigue es que el chico se aproveche de él."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Tengo una edad",
-        "Duración": 25,
+        "Duracion": 25,
         "Temporada": 1,
         "Descripcion": "López quiere celebrar su cumpleaños con una gran fiesta pero David cree que ya es demasiado viejo para esas cosas. Los treinta y cinco ya no se celebran con una fiesta, mejor ir al balneario."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Tengo dudas",
-        "Duración": 25,
+        "Duracion": 25,
         "Temporada": 1,
         "Descripcion": "Pol, que está absolutamente convencido de ser homosexual, se enrolla con Emma y supone que no por eso dejará de serlo."
     },
@@ -451,35 +451,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Todo va bien",
-        "Duración": 24,
+        "Duracion": 24,
         "Temporada": 1,
         "Descripcion": "Eleanor se da cuenta de que la han confundido por otra persona cuando muere y acaba en un paraíso del más allá reservado para gente con gran sentido ético."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Volar",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Eleanor quiere que Chidi le enseñe a ser una buena persona, así que este le sugiere participar en una limpieza vecinal en lugar de aprender a volar."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Tahani Al-Jamil",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Eleanor cree que Tahani conoce su secreto. Michael intenta que Chidi empiece a practicar un nuevo hobby."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Jason Mendoza",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Eleanor entabla amistad con otro residente que esconde un secreto. Tahani prepara un evento para la inauguración de un nuevo restaurante."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Crisis del Juicio Final de emergencia categoría 55",
-        "Duración": 23,
+        "Duracion": 23,
         "Temporada": 1,
         "Descripcion": "Chidi está agotado de pasar tanto tiempo enseñando a Eleanor. Tahani husmea un poco y no le gusta lo que encuentra."
     },
@@ -488,35 +488,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Érase una mudanza",
-        "Duración": 48,
+        "Duracion": 48,
         "Temporada": 1,
         "Descripcion": "Roberto y Lucía se están mudando ilusionados a un edificio, pero en su primer día nada les sale como habían pensado."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Érase una reforma",
-        "Duración": 49,
+        "Duracion": 49,
         "Temporada": 1,
         "Descripcion": "Roberto y Lucía ya están instalados en el edificio y se disponen a hacer unas reformas en el piso. Los ruidos que provocan los obreros molestan a todos los vecinos, que deciden poner una queja formal ante Juan, el presidente."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Érase El Reciclaje",
-        "Duración": 52,
+        "Duracion": 52,
         "Temporada": 1,
         "Descripcion": "Juan termina renunciando a su cargo como presidente de la comunidad, por lo que automáticamente pasa a ejercer Lucía. En sus primeros días descubre que todo es un desastre y que para arreglar las cosas habría que subir la cuota mensual."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Érase un rumor",
-        "Duración": 50,
+        "Duracion": 50,
         "Temporada": 1,
         "Descripcion": "En la comunidad se corre el rumor de que Alicia y Belén son prostitutas. Esto provoca diversas reacciones en el vecindario, que se moviliza en masa para comprobar si es cierto."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Érase un niño",
-        "Duración": 59,
+        "Duracion": 59,
         "Temporada": 1,
         "Descripcion": "Alguien deja abandonado a un bebé en el portal de la comunidad, provocando que algunos vecinos con vocación de madre se lo disputen."
     },
@@ -525,35 +525,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Piloto",
-        "Duración": 45,
+        "Duracion": 45,
         "Temporada": 1,
         "Descripcion": "En el primer episodio de esta comedia dramática, varias personas cuyas vidas están misteriosamente entrelazadas comienzan a descubrir peculiares coincidencias entre ellas."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Los Súper Tres",
-        "Duración": 44,
+        "Duracion": 44,
         "Temporada": 1,
         "Descripcion": "Kate está luchando mucho para deshacerse de esos kilos que quiere perder y tiene que lidiar con su impaciencia y falta de motivación."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Kyle",
-        "Duración": 44,
+        "Duracion": 44,
         "Temporada": 1,
         "Descripcion": "Rebecca hace una visita sorpresa a la casa de Randall, donde se encuentra con su padre biológico, William. Kevin, muy nervioso, decide lanzarse y mudarse a Nueva York para buscar un trabajo en Broadway."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "La Piscina",
-        "Duración": 44,
+        "Duracion": 44,
         "Temporada": 1,
         "Descripcion": "Rebecca y Jack llevan a Kevin, Kate y Randall a la piscina comunitaria un día de mucho calor, y se darán cuenta enseguida de que cada niño está pasando por algo."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "El Gran Plan",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "Rebecca y Jack discuten el tema de empezar una familia. Se revela la historia familiar que hay detrás del gran amor por los Pittsburgh Steelers."
     },
@@ -562,35 +562,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Los peripatéticos",
-        "Duración": 54,
+        "Duracion": 54,
         "Temporada": 1,
         "Descripcion": "Merlí, el nuevo profesor del instituto, causa una fuerte impresión a sus recién estrenados compañeros y alumnos, entre los que se encuentra Bruno, su hijo de 16 años."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Platón",
-        "Duración": 50,
+        "Duracion": 50,
         "Temporada": 1,
         "Descripcion": "Merlí anima a sus estudiantes a escribir poesía y visita en su casa a Iván, un estudiante que sufre de agorafobia."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Maquiavelo",
-        "Duración": 50,
+        "Duracion": 50,
         "Temporada": 1,
         "Descripcion": "Merlí recibe una visita de la madre de Gerard. Bruno cree que Eugeni no le califica como merece por ser el hijo de Merlí."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Aristóteles",
-        "Duración": 45,
+        "Duracion": 45,
         "Temporada": 1,
         "Descripcion": "Durante una noche de estudio, Pol empieza a sospechar de Bruno. Eugeni acusa a Bruno y a Pol de copiar en un examen. Joan quiere que Merlí le hable de la justicia."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Sócrates",
-        "Duración": 49,
+        "Duracion": 49,
         "Temporada": 1,
         "Descripcion": "El padre de Joan cree que Merlí está lavándole el cerebro a su hijo. Bruno consuela a Tània, triste por la traición de una amiga. Merlí obliga a Iván a salir a la calle."
     },
@@ -599,35 +599,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Piloto",
-        "Duración": 42,
+        "Duracion": 42,
         "Temporada": 1,
         "Descripcion": "Cuatro meses después del terrible accidente que mató a sus padres, Elena Gilbert, una adolescente de 17 años, y su hermano menor, Jeremy, siguen intentando salir adelante en sus vidas."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "La noche del cometa",
-        "Duración": 42,
+        "Duracion": 42,
         "Temporada": 1,
         "Descripcion": "Mystic Falls comienza con las preparaciones para celebrar el paso de un cometa. Mientras Vicki se recupera en el hospital de sus heridas causadas por un vampiro, Stefan usa sus habilidades para borrar de la memoria de Vicki a su atacante."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Mordeduras de la noche de viernes",
-        "Duración": 42,
+        "Duracion": 42,
         "Temporada": 1,
         "Descripcion": "Bonnie tiene un mal presentimiento sobre Stefan, así que Elena decide invitar a Stefan y Bonnie a cenar y así pueden conocerse mejor."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Lazos de familia",
-        "Duración": 42,
+        "Duracion": 42,
         "Temporada": 1,
         "Descripcion": "Aparece Logan, un guapo personaje que comparte una historia con la tía Jenna, y es reportero. Viene con la esperanza de arreglar las cosas con ella."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Para mi si estas muerto",
-        "Duración": 41,
+        "Duracion": 41,
         "Temporada": 1,
         "Descripcion": "En este episodio, Damon permanece encerrado en el sótano muy débil por la verbena. Mientras Damon se hace más débil, la relación entre Jeremy y Vicki crece."
     },
@@ -636,35 +636,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Comida Quemada",
-        "Duración": 44,
+        "Duracion": 44,
         "Temporada": 1,
         "Descripcion": "Un joven cirujano con autismo y síndrome de savant se traslada de Wyoming a California para completar su formación médica y confía en sus extraordinarias habilidades para refutar el escepticismo de sus colegas."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Monte Rushmore",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "Cuando los prejuicios sobre su autismo obligan a Shaun a mantenerse al margen en el St. Bonaventure, sus colegas no dudan en atribuirse el mérito de sus ideas."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Oliver",
-        "Duración": 42,
+        "Duracion": 42,
         "Temporada": 1,
         "Descripcion": "Shaun y Claire improvisan para mantener conservado un hígado para un trasplante. Andrews se ve obligado a hacer una operación rutinaria a un adinerado paciente junto a Melendez."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Tuberías",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "Melendez decide tomar un riesgo para salvar a una embarazada y a su hijo, lo que pone al hospital en un peligro legal. Shaun se esfuerza en adaptarse a su nueva vida."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Cero Come Tres Por Ciento",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "Shaun crea lazos con un joven paciente y sospecha que ha sido diagnosticado erróneamente con un tipo de cáncer cerebral terminal."
     },
@@ -673,35 +673,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Los monstruos no hacen cosquillas",
-        "Duración": 69,
+        "Duracion": 69,
         "Temporada": 1,
         "Descripcion": "La llegada de María, la nueva limpiadora, al internado La Laguna Negra, tras haberse escapado de un psiquiátrico trastornará la apacible vida de Héctor, el carismático director del colegio, que forma pareja, hasta entonces perfecta, con Elsa, la estricta jefa de estudios."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Todo el mundo tiene un secreto",
-        "Duración": 69,
+        "Duracion": 69,
         "Temporada": 1,
         "Descripcion": "María trata por todos los medios de conseguir las fichas médicas de los alumnos del internado. Su hijo tiene un grupo sanguíneo muy raro y los historiales despejarían todas las dudas. Sin embargo, algo va a cruzarse en su camino."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Ojos que no ven",
-        "Duración": 68,
+        "Duracion": 68,
         "Temporada": 1,
         "Descripcion": "Marcos descubre una entrada secreta en el armario de Alfonso que les conduce al desván. Allí, los chicos hacen un macabro hallazgo; unos ojos conservados en formol."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Un mensaje en una botella",
-        "Duración": 69,
+        "Duracion": 69,
         "Temporada": 1,
         "Descripcion": "Carolina se hace pasar por Alfonso y manda un correo electrónico a Ricardo Montoya, con el que queda en el cementerio. El periodista explica a los chicos la desaparición, en los años 70, de los cinco pequeños huérfanos y les advierte del enorme peligro que corren si continúan con la investigación."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Un cadáver en la laguna",
-        "Duración": 76,
+        "Duracion": 76,
         "Temporada": 1,
         "Descripcion": "Héctor descubre en la laguna el cadáver despedazado del periodista Ricardo Montoya. Los chicos, tras recuperarse del shock inicial, se dan cuenta de que han perdido la única prueba que tenían de la muerte de los cinco huérfanos."
     },
@@ -710,35 +710,35 @@ const arrayCapitulos = [
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Piloto",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "Dos hermanos, Sam y Dean Winchester, presencian de niños la muerte paranormal de su madre y crecen siendo entrenados para pelear por un angustiado padre que no busca otra cosa que cazar aquello que mató a su esposa."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Wendigo",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "Sam y Dean siguen las coordenadas del diario de su padre y desembarcan en medio del bosque de Colorado. Allí investigan la desaparición de varios campistas."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Muerto en el agua",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "En un pequeño pueblo de Wisconsin, Sam y Dean investigan una serie de misteriosos ahogamientos oficialmente considerados como suicidios."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Viajero Fantasma",
-        "Duración": 42,
+        "Duracion": 42,
         "Temporada": 1,
         "Descripcion": "En el vuelo Transnacional 2485, un hombre poseído por el espíritu del Fantasma Viajero hace estrellar el avión dejando solo cinco supervivientes."
     },
     {
         "Icono": "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre": "Bloody Mary",
-        "Duración": 43,
+        "Duracion": 43,
         "Temporada": 1,
         "Descripcion": "En las afueras de Nebraska, varios adolescentes fiesteros del instituto, haciendo una broma, retan a su amigo Charlie a mirar a un espejo y repetir: Bloody Mary, Bloody Mary, Bloody Mary."
     },

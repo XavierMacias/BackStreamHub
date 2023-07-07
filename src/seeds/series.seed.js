@@ -214,50 +214,50 @@ const arraySeries = [
         "Nombre" : "La Casa del Dragón", 
         "Trailer" : "https://youtu.be/A7wLFLc5NzQ",
         "Genero" : ["Fantasia", "Acción", "Romance"],
-        "Descripción" : "Historia ambientada 172 años antes de Daenerys Targaryen, y en el noveno año del reinado de Viserys Targaryen (Paddy Considine), un rey cuya línea de sucesión está en peligro. Su esposa Aemma (Sian Brooke) está embarazada, aunque no hay garantía de que dé a luz a un heredero varón. Si no lo hace, entonces el Trono de Hierro recaerá, bien sobre el hermano de Viserys, Daemon, un gobernante impulsivo y potencialmente tiránico (Matt Smith); o bien, rompiendo con la tradición de preferencia del varón, en la hija adolescente de Viserys, Rhaenyra (Milly Alcock), cuyo reclamo del trono está destinado a tener una fuerte oposición.",
-        "Capitulos" : [""],
+        "Descripcion" : "Historia ambientada 172 años antes de Daenerys Targaryen, y en el noveno año del reinado de Viserys Targaryen (Paddy Considine), un rey cuya línea de sucesión está en peligro. Su esposa Aemma (Sian Brooke) está embarazada, aunque no hay garantía de que dé a luz a un heredero varón. Si no lo hace, entonces el Trono de Hierro recaerá, bien sobre el hermano de Viserys, Daemon, un gobernante impulsivo y potencialmente tiránico (Matt Smith); o bien, rompiendo con la tradición de preferencia del varón, en la hija adolescente de Viserys, Rhaenyra (Milly Alcock), cuyo reclamo del trono está destinado a tener una fuerte oposición.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     }, 
     {
         "Portada" : "https://img.europapress.es/fotoweb/fotonoticia_20220209102544_1200.jpg",
         "Nombre" : "El señor de los anillos: Los anillos del Poder", 
         "Trailer" : "https://www.youtube.com/watch?v=kLw1UrDqC9Q",
         "Genero" : ["Fantasia", "Romance"],
-        "Descripción" : "En un periodo de relativa calma, los personajes se enfrentan al resurgimiento del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, el impresionante reino insular de Númenor y los confines más lejanos del mapa, estos reinos y personajes esculpirán legados que perdurarán en el tiempo.",
-        "Capitulos" : [""],
+        "Descripcion" : "En un periodo de relativa calma, los personajes se enfrentan al resurgimiento del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, el impresionante reino insular de Númenor y los confines más lejanos del mapa, estos reinos y personajes esculpirán legados que perdurarán en el tiempo.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://zeleb.publico.es/wp-content/uploads/2022/08/carnival-row-1.jpg",
         "Nombre" : "Carnival Row", 
         "Trailer" : "https://www.youtube.com/watch?v=T120yZjSLL0",
         "Genero" : ["Fantasia", "Romace", "Acción"],
-        "Descripción" : "Amor. Asesinatos. Conspiración. Revolución. Cuando unos misteriosos asesinatos avivan la tensión entre las hadas y los humanos que las oprimen, los habitantes de Carnival Row han de elegir quiénes son y cómo van a actuar.",
-        "Capitulos" : [""],
+        "Descripcion" : "Amor. Asesinatos. Conspiración. Revolución. Cuando unos misteriosos asesinatos avivan la tensión entre las hadas y los humanos que las oprimen, los habitantes de Carnival Row han de elegir quiénes son y cómo van a actuar.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://prod.assets.earlygamecdn.com/images/4f28b7f6af5740b9a638d6b28a_AzQ5NDhmZjQ5MzY4_575b14f445f692a10b87883148_yyaxmze3edc0mss1nisynajyzsaxotiwidewodadmwi1ymy1ote4odq.jpg?mtime=1679335720",
         "Nombre" : "The Expanse", 
         "Trailer" : "https://www.youtube.com/watch?v=nrC_QzwyQco",
         "Genero" : ["Fantasia", "Accion"],
-        "Descripción" : "La desaparición de Julie Mao, niña rica convertida en activista política, une las vidas del detective de Ceres, Joe Miller (Thomas Jane), el capitán de la nave, James Holden (Steven Strait), y el político de la ONU, Chrisjen Avasarala (Shohreh Aghdashloo). En medio de toda la tensión política entre la Tierra, Marte y el Cinturón, resuelven la mayor conspiración de todos los tiempos.",
-        "Capitulos" : [""],
+        "Descripcion" : "La desaparición de Julie Mao, niña rica convertida en activista política, une las vidas del detective de Ceres, Joe Miller (Thomas Jane), el capitán de la nave, James Holden (Steven Strait), y el político de la ONU, Chrisjen Avasarala (Shohreh Aghdashloo). En medio de toda la tensión política entre la Tierra, Marte y el Cinturón, resuelven la mayor conspiración de todos los tiempos.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://images.ecestaticos.com/HNHlNFifj_FZaYLXg9hR9_qoGlY=/344x95:1601x1038/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F533%2Fdde%2F23f%2F533dde23f4301c3a933a1a21b1c72ef3.jpg",
         "Nombre" : "Los Protegidos", 
         "Trailer" : "https://www.youtube.com/watch?v=_hrLA73Ui0U",
         "Genero" : ["Fantasia", "Romance", "Accion"],
-        "Descripción" : "Un grupo de niños aparentemente normales descubren repentinamente que han sido dotados de poderes sobrenaturales. Han desarrollado habilidades especiales que se escapan a su control racional. Nadie conoce su secreto y tienen que protegerse unos a otros para pasar desapercibidos y no ser descubiertos. Para ello se unen y forman una falsa familia normal.",
-        "Capitulos" : [""],
+        "Descripcion" : "Un grupo de niños aparentemente normales descubren repentinamente que han sido dotados de poderes sobrenaturales. Han desarrollado habilidades especiales que se escapan a su control racional. Nadie conoce su secreto y tienen que protegerse unos a otros para pasar desapercibidos y no ser descubiertos. Para ello se unen y forman una falsa familia normal.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     
     //TERROR
@@ -267,50 +267,50 @@ const arraySeries = [
         "Nombre" : "Fear the Walking Dead", 
         "Trailer" : "https://www.youtube.com/watch?v=w-omQBtshvk",
         "Genero" : ["Terror", "Drama", "Accion"],
-        "Descripción" : "En el seno de una ciudad a la que las personas acuden para escapar, esconder sus secretos y enterrar su pasado, un brote misterioso amenaza con perturbar la poca estabilidad que Madison Clark -asesora escolar de un instituto- y Travis Manawa –profesor de lengua- han conseguido alcanzar.",
-        "Capitulos" : [""],
+        "Descripcion" : "En el seno de una ciudad a la que las personas acuden para escapar, esconder sus secretos y enterrar su pasado, un brote misterioso amenaza con perturbar la poca estabilidad que Madison Clark -asesora escolar de un instituto- y Travis Manawa –profesor de lengua- han conseguido alcanzar.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://www.prensario.net/Multimedios/imgs/36350_750.jpg",
         "Nombre" : "The Purge", 
         "Trailer" : "https://www.youtube.com/watch?v=rAakoTpuAOU",
         "Genero" : ["Terror", "Drama"],
-        "Descripción" : "Una vez al año, cualquier delito, incluido el asesinato, es legal en Estados Unidos por un período de 12 horas.",
-        "Capitulos" : [""],
+        "Descripcion" : "Una vez al año, cualquier delito, incluido el asesinato, es legal en Estados Unidos por un período de 12 horas.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://hips.hearstapps.com/hmg-prod/images/se-lo-que-hicisteis-el-ultimo-verano07-1634815720.jpg",
         "Nombre" : "Se lo que hicisteis el último verano", 
         "Trailer" : "https://www.youtube.com/watch?v=rF40B_gA67Q",
         "Genero" : ["Terror", "Drama"],
-        "Descripción" : "En una ciudad llena de secretos, un grupo de adolescentes es acosado por un misterioso asesino un año después de un fatal accidente en su noche de graduación.",
-        "Capitulos" : [""],
+        "Descripcion" : "En una ciudad llena de secretos, un grupo de adolescentes es acosado por un misterioso asesino un año después de un fatal accidente en su noche de graduación.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://i.blogs.es/6aa33b/peaky-blinders/1366_2000.jpeg",
         "Nombre" : "Peaky Blinders", 
         "Trailer" : "https://www.youtube.com/watch?v=oVzVdvGIC7U",
         "Genero" : ["Terror"],
-        "Descripción" : "Una familia de gánsters asentada en Birmingham tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas de de carreras de caballos. Las actividades del ambicioso jefe de la banda, Tommy Shelby (Cillian Murphy), llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado a Birmingham para limpiar la ciudad y acabar con la banda.",
-        "Capitulos" : [""],
+        "Descripcion" : "Una familia de gánsters asentada en Birmingham tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas de de carreras de caballos. Las actividades del ambicioso jefe de la banda, Tommy Shelby (Cillian Murphy), llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado a Birmingham para limpiar la ciudad y acabar con la banda.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://images.amcnetworks.com/amctv.es/wp-content/uploads/2019/11/TWDWB-2-destacada.jpg",
         "Nombre" : "The Walking Dead: World Beyond", 
         "Trailer" : "https://www.youtube.com/watch?v=YnQy-7IZX0E",
         "Genero" : ["Terror"],
-        "Descripción" : "Un grupo de adolescentes que vive en una communidad protegida de los peligros del apocalipsis recibe un mensaje que los incita a dejar atrás la seguridad del único hogar que han conocido y a emprender un viaje a través del país para salvar a su padre.",
-        "Capitulos" : [""],
+        "Descripcion" : "Un grupo de adolescentes que vive en una communidad protegida de los peligros del apocalipsis recibe un mensaje que los incita a dejar atrás la seguridad del único hogar que han conocido y a emprender un viaje a través del país para salvar a su padre.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     
     //ROMANCE
@@ -320,50 +320,50 @@ const arraySeries = [
         "Nombre" : "Sexo/Vida", 
         "Trailer" : "https://www.youtube.com/watch?v=IH5PDcxorg8",
         "Genero" : ["Romance", "Drama"],
-        "Descripción" : "El atrevido pasado sexual de una mujer choca con su presente como esposa y madre cuando su ex, un chico malo con el que no puede dejar de fantasear, vuelve a su vida",
-        "Capitulos" : [""],
+        "Descripcion" : "El atrevido pasado sexual de una mujer choca con su presente como esposa y madre cuando su ex, un chico malo con el que no puede dejar de fantasear, vuelve a su vida",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://nosubmarinesdotcom.files.wordpress.com/2019/01/jane-the-virginjpg.jpg",
         "Nombre" : "Jane, The Virgin", 
         "Trailer" : "https://youtube.com/watch?v=JOKUcwrPFmg",
         "Genero" : ["Romance"],
-        "Descripción" : "Después de prometer permanecer casta hasta el matrimonio, Jane Villanueva se entera de que está embarazada debido a un fallo médico, y tiene que reconsiderar su futuro.",
-        "Capitulos" : [""],
+        "Descripcion" : "Después de prometer permanecer casta hasta el matrimonio, Jane Villanueva se entera de que está embarazada debido a un fallo médico, y tiene que reconsiderar su futuro.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://www.lavanguardia.com/peliculas-series/images/serie/backdrop/2013/9/w1280/q3WMUtu4h2mwgehn8F5481RFVej.jpg",
         "Nombre" : "Mom", 
         "Trailer" : "https://www.youtube.com/watch?v=tSKzFgS07dI",
         "Genero" : ["Romance"],
-        "Descripción" : "Christy es una madre soltera cuya reciente sobriedad le ha permitido ver su vida con claridad... y no le gusta lo que ve. Ahora debe tratar de deshacer años de decisiones imprudentes para construir una vida mejor para ella y sus hijos.",
-        "Capitulos" : [""],
+        "Descripcion" : "Christy es una madre soltera cuya reciente sobriedad le ha permitido ver su vida con claridad... y no le gusta lo que ve. Ahora debe tratar de deshacer años de decisiones imprudentes para construir una vida mejor para ella y sus hijos.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://fueradeseries.com/wp-content/uploads/2020/02/1PfKmsd_jKi7vqk97Yxoh9w-1.jpeg",
         "Nombre" : "Luna Nera", 
         "Trailer" : "https://www.youtube.com/watch?v=5_mMWzEzoPA",
         "Genero" : ["Romance", "Fantasia"],
-        "Descripción" : "En la Italia del siglo XVII, una joven descubre su destino junto a una familia de brujas mientras el padre de su novio trata de darle caza por practicar magia negra",
-        "Capitulos" : [""],
+        "Descripcion" : "En la Italia del siglo XVII, una joven descubre su destino junto a una familia de brujas mientras el padre de su novio trata de darle caza por practicar magia negra",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://media.vogue.es/photos/63f645098bdf842f0e0e2309/16:9/pass/Daisy%20Jones%20&%20The%20Six%20HD%20(7).jpg",
         "Nombre" : "Todos quieren a Daisy Jones", 
         "Trailer" : "https://www.youtube.com/watch?v=9yATGQ_9wCo",
         "Genero" : ["Romance"],
-        "Descripción" : "En 1977, Daisy Jones & the Six había llegado a lo más alto. La banda, liderada por Daisy Jones y Billy Dunne, dos misiles muy inestables, había salido de la oscuridad y alcanzado la fama. De repente, tras vender todas las entradas para el Soldier Field, los miembros se separan y ahora, años después, cuentan qué pasó. Así fue la separación de una banda que estaba en su mejor momento.",
-        "Capitulos" : [""],
+        "Descripcion" : "En 1977, Daisy Jones & the Six había llegado a lo más alto. La banda, liderada por Daisy Jones y Billy Dunne, dos misiles muy inestables, había salido de la oscuridad y alcanzado la fama. De repente, tras vender todas las entradas para el Soldier Field, los miembros se separan y ahora, años después, cuentan qué pasó. Así fue la separación de una banda que estaba en su mejor momento.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     
     //INFANTIL
@@ -373,50 +373,50 @@ const arraySeries = [
         "Nombre" : "Do, Re & Mi", 
         "Trailer" : "https://www.youtube.com/watch?v=P_ZrizcZdGI",
         "Genero" : ["Infantil"],
-        "Descripción" : "Acompaña a los amigos pajaritos Do, Re y Mi en el mundo musical de Beebopsburgo, una isla donde crecen instrumentos en el bosque del Falsete y una montaña musical gigante se eleva por encima de todas sus aventuras. Descubre los sonidos y melodías, muévete a su ritmo y mira cómo ayuda la música a resolver problemas. Con una canción original en cada episodio.",
-        "Capitulos" : [""],
+        "Descripcion" : "Acompaña a los amigos pajaritos Do, Re y Mi en el mundo musical de Beebopsburgo, una isla donde crecen instrumentos en el bosque del Falsete y una montaña musical gigante se eleva por encima de todas sus aventuras. Descubre los sonidos y melodías, muévete a su ritmo y mira cómo ayuda la música a resolver problemas. Con una canción original en cada episodio.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://licensinginternational.org/wp-content/uploads/2022/01/Winx-Club-18-scaled.jpg",
         "Nombre" : "Winx Club", 
         "Trailer" : "https://www.youtube.com/watch?v=XlqCo0SsAiM",
         "Genero" : ["Infantil"],
-        "Descripción" : "La vida de Bloom cambia repentinamente cuando descubre sus poderes magicos y se inscribe en el colegio de hadas Alfea en Magix. Alli forma el Winx Club con otras chicas especiales como ella. Todo parece perfecto, pero tres malvadas brujas llamadas Trix amenazan la Dimension Magica: quieren robar la Llama del Dragon, el inmenso poder de Bloom... Asi comienza la formidable aventura de las Winx.",
-        "Capitulos" : [""],
+        "Descripcion" : "La vida de Bloom cambia repentinamente cuando descubre sus poderes magicos y se inscribe en el colegio de hadas Alfea en Magix. Alli forma el Winx Club con otras chicas especiales como ella. Todo parece perfecto, pero tres malvadas brujas llamadas Trix amenazan la Dimension Magica: quieren robar la Llama del Dragon, el inmenso poder de Bloom... Asi comienza la formidable aventura de las Winx.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://e1.pxfuel.com/desktop-wallpaper/518/982/desktop-wallpaper-pokemon-the-series-ruby-sapphire-pokemon-season-1.jpg",
         "Nombre" : "Pokemon Rubí y Zafiro", 
         "Trailer" : "https://www.youtube.com/watch?v=YtULmC1ZVcI",
         "Genero" : ["Infantil"],
-        "Descripción" : "Exterminada la Conferencia de Plata, Ash continúa hacia su próximo desafío: ¡la región lejana de Hoenn!",
-        "Capitulos" : [""],
+        "Descripcion" : "Exterminada la Conferencia de Plata, Ash continúa hacia su próximo desafío: ¡la región lejana de Hoenn!",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://vod.roams.es/images/post/es_ES_vod/series-caillou.jpg",
         "Nombre" : "Caillou", 
         "Trailer" : "https://www.youtube.com/watch?v=q97zic--H_s",
         "Genero" : ["Infantil"],
-        "Descripción" : "Te presentamos a Caillou, el niño de 4 años con una gran imaginación. Caillou experimenta todas las maravillas de la infancia que hemos vivido todos: el primer día de cole, cuidar a una mascota, aprender un deporte o pasar tiempo con la familia.",
-        "Capitulos" : [""],
+        "Descripcion" : "Te presentamos a Caillou, el niño de 4 años con una gran imaginación. Caillou experimenta todas las maravillas de la infancia que hemos vivido todos: el primer día de cole, cuidar a una mascota, aprender un deporte o pasar tiempo con la familia.",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     },
     {
         "Portada" : "https://occ-0-3934-444.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVnk38wXZQ7dNm-hVEeWKRMh-eJAyUsVPO7kX5votM0-UdsqLhgDZKZ2q2RVTNo1LGkGE9hFsY5VoZD7rNPg_CwtQnzatgQzwtIc.jpg?r=b12",
         "Nombre" : "H2O", 
         "Trailer" : "https://www.youtube.com/watch?v=wqHED34TcwU",
         "Genero" : ["Infantil"],
-        "Descripción" : "Emma Gilbert , Cleo Sertori ​​y Rikki Chadwick son tres chicas de dieciséis años de edad, que se quedan varados en la misteriosa isla de Mako . Cuando entran en un estanque subterráneo de agua que conduce al océano se encuentran bañadas en el resplandor de la luz de la luna desde arriba .",
-        "Capitulos" : [""],
+        "Descripcion" : "Emma Gilbert , Cleo Sertori ​​y Rikki Chadwick son tres chicas de dieciséis años de edad, que se quedan varados en la misteriosa isla de Mako . Cuando entran en un estanque subterráneo de agua que conduce al océano se encuentran bañadas en el resplandor de la luz de la luna desde arriba .",
+        "Capitulos" : [],
         "Valoracion" : 0, 
-        "Reseña" : [""]
+        "Reseña" : []
     }
 ]
 
