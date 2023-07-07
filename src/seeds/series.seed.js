@@ -220,11 +220,11 @@ const arraySeries = [
         "Reseña" : [""]
     }, 
     {
-        "Portada" : "https://hips.hearstapps.com/hmg-prod/images/cronicas-vampiricas-2-1624094640.jpg",
-        "Nombre" : "Crónicas Vampíricas", 
-        "Trailer" : "https://www.youtube.com/watch?v=caU300D1jN0",
+        "Portada" : "https://img.europapress.es/fotoweb/fotonoticia_20220209102544_1200.jpg",
+        "Nombre" : "El señor de los anillos: Los anillos del Poder", 
+        "Trailer" : "https://www.youtube.com/watch?v=kLw1UrDqC9Q",
         "Genero" : ["Fantasia", "Romance"],
-        "Descripción" : "Es el primer día de vuelta al instituto Mystic Falls para Elena tras la trágica muerte de sus padres. Elena, junto con su tía Jenna, cuida de su problemático hermano Jeremy. La vida es difícil para Elena hasta que conoce al misterioso Stefan en la escuela. A medida que su lazo se va haciendo más fuerte, el peligroso hermano de Stefan, Damon, aparece y siembra el caos y reclama a Elena.",
+        "Descripción" : "En un periodo de relativa calma, los personajes se enfrentan al resurgimiento del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, el impresionante reino insular de Númenor y los confines más lejanos del mapa, estos reinos y personajes esculpirán legados que perdurarán en el tiempo.",
         "Capitulos" : [""],
         "Valoracion" : 0, 
         "Reseña" : [""]
@@ -240,21 +240,21 @@ const arraySeries = [
         "Reseña" : [""]
     },
     {
-        "Portada" : "https://static.eldiario.es/clip/e7f63ff2-0cd8-420b-a901-b929e177d261_16-9-aspect-ratio_default_0.webp",
-        "Nombre" : "Sobrenatural", 
-        "Trailer" : "https://www.youtube.com/watch?v=e9aty0dSc2Y",
+        "Portada" : "https://prod.assets.earlygamecdn.com/images/4f28b7f6af5740b9a638d6b28a_AzQ5NDhmZjQ5MzY4_575b14f445f692a10b87883148_yyaxmze3edc0mss1nisynajyzsaxotiwidewodadmwi1ymy1ote4odq.jpg?mtime=1679335720",
+        "Nombre" : "The Expanse", 
+        "Trailer" : "https://www.youtube.com/watch?v=nrC_QzwyQco",
         "Genero" : ["Fantasia", "Accion"],
-        "Descripción" : "Sam Winchester ( Jared Padaleck) creció cazando cosas terribles. Su hermano Dean ( Jensen Ackles) aparece con terribles noticias.",
+        "Descripción" : "La desaparición de Julie Mao, niña rica convertida en activista política, une las vidas del detective de Ceres, Joe Miller (Thomas Jane), el capitán de la nave, James Holden (Steven Strait), y el político de la ONU, Chrisjen Avasarala (Shohreh Aghdashloo). En medio de toda la tensión política entre la Tierra, Marte y el Cinturón, resuelven la mayor conspiración de todos los tiempos.",
         "Capitulos" : [""],
         "Valoracion" : 0, 
         "Reseña" : [""]
     },
     {
-        "Portada" : "https://i0.wp.com/35milimetros.es/wp-content/uploads/2016/04/internado.jpg?fit=1050%2C700&ssl=1",
-        "Nombre" : "El Internado", 
-        "Trailer" : "https://www.youtube.com/watch?v=_KJkbLGKT8M",
+        "Portada" : "https://images.ecestaticos.com/HNHlNFifj_FZaYLXg9hR9_qoGlY=/344x95:1601x1038/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F533%2Fdde%2F23f%2F533dde23f4301c3a933a1a21b1c72ef3.jpg",
+        "Nombre" : "Los Protegidos", 
+        "Trailer" : "https://www.youtube.com/watch?v=_hrLA73Ui0U",
         "Genero" : ["Fantasia", "Romance", "Accion"],
-        "Descripción" : "Empieza el nuevo curso en Laguna Negra. Marcos y su hermana Paula llegan después de que un accidente que sufrieron sus padres les dejara huérfanos. Marcos (Martín Rivas) llega al internado de la mano de su pequeña hermana Paula (Carlota García). También es nueva María (Marta Torné), que entra como nueva limpiadora. Alfonso (Francisco Merino) confía en Vicky (Elena Furiase) y Carol (Ana de Armas)",
+        "Descripción" : "Un grupo de niños aparentemente normales descubren repentinamente que han sido dotados de poderes sobrenaturales. Han desarrollado habilidades especiales que se escapan a su control racional. Nadie conoce su secreto y tienen que protegerse unos a otros para pasar desapercibidos y no ser descubiertos. Para ello se unen y forman una falsa familia normal.",
         "Capitulos" : [""],
         "Valoracion" : 0, 
         "Reseña" : [""]

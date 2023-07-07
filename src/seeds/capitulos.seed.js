@@ -744,215 +744,215 @@ const arrayCapitulos = [
     },
     //La casa del dragon
     {
-        "Icono" : "",
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
         "Nombre" : "Los herederos del Dragón",
         "Duracion" : 65,
         "Temporada" : 1,
         "Descripcion" : "Viserys prepara un torneo para celebrar el nacimiento de su segundo hijo. Rhaenyra le da la bienvenida a su tío Daemon cuando vuelve a la Fortaleza Roja"
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El Príncipe Canalla",
          "Duracion" : 53,
          "Temporada" : 1,
          "Descripcion" : "Rhaenyra se excede en el Consejo Privado. Viserys debe afianzar la sucesión mediante el matrimonio. Daemon anuncia sus intenciones"
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El segundo de su nombre",
          "Duracion" : 63,
          "Temporada" : 1,
          "Descripcion" : "Daemon y la Serpiente Marina se enfrentan al Benefactor de los Cangrejos. El reino celebra la segunda onomástica de Aegon. Rhaenyra afronta la posibilidad de casarse."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El rey del mar Angosto",
          "Duracion" : 62,
          "Temporada" : 1,
          "Descripcion" : "Rhaenyra vuelve pronto de su viaje por Poniente. Daemon lleva a la princesa a visitar la calle de la Seda al anochecer"
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Iluminamos el camino",
          "Duracion" : 59,
          "Temporada" : 1,
          "Descripcion" : "Daemon visita a su esposa. Viserys y Rhaenyra negocian acuerdos con los Velaryons. Alicent investiga la verdad sobre la princesa."
      },
- //Cronicas Vampiricas
+//El señor de los anillos
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "Una sombra del pasado",
+        "Duracion" : 65,
+        "Temporada" : 1,
+        "Descripcion" : "Estreno de la serie. Galadriel está inquieta por los indicios del regreso de un mal ancestral. Arondir hace un descubrimiento preocupante. A Elrond le plantean un nuevo y enigmático encargo. Nori infringe la regla más inconmovible de la comunidad de los Pelosos."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "A la deriva",
+        "Duracion" : 67,
+        "Temporada" : 1,
+        "Descripcion" : "Galadriel encuentra un nuevo aliado. Elrond recibe una fría bienvenida por parte de un viejo amigo. Nori intenta ayudar a un extraño. Arondir busca respuestas mientras Bronwyn advierte a su pueblo de una amenaza."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "Adar",
+        "Duracion" : 69,
+        "Temporada" : 1,
+        "Descripcion" : "Arondir es capturado. Galadriel y Halbrand exploran un reino legendario. A Elendil le encargan una nueva misión. Nori afronta las consecuencias."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "La gran ola",
+        "Duracion" : 42,
+        "Temporada" : 1,
+        "Descripcion" : "La fe de la reina regente Míriel es puesta a prueba. Isildur se halla en una encrucijada. Elrond revela un secreto. Arondir recibe un ultimátum. Theo desobedece a Bronwyn."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "Separaciones",
+        "Duracion" : 41,
+        "Temporada" : 1,
+        "Descripcion" : "Nori duda de su intuición. Elrond se esfuerza por cumplir su juramento. Halbrand sopesa su destino. Los sureños se preparan para el ataque."
+    },
+//Carnival Row
      {
-         "Icono" : "",
-         "Nombre" : "Piloto",
-         "Duracion" : 42,
-         "Temporada" : 1,
-         "Descripcion" : "Cuatro meses después del terrible accidente que mató a sus padres, Elena Gilbert, una adolescente de 17 años, y su hermano menor, Jeremy, siguen intentando salir adelante en sus vidas."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "La noche del cometa",
-         "Duracion" : 42,
-         "Temporada" : 1,
-         "Descripcion" : "Mystic Falls comienza con las preparaciones para celebrar el paso de un cometa. Mientras Vicki se recupera en el hospital de sus heridas causadas por un vampiro, Stefan usa sus habilidades para borrar de la memoria de Vicki a su atacante…."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Mordeduras de la noche de viernes",
-         "Duracion" : 42,
-         "Temporada" : 1,
-         "Descripcion" : "Bonnie tiene un mal presentimiento sobre Stefan, así que Elena decide invitar a Stefan y Bonnie a cenar y así pueden conocerse mejor."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Lazos de familia",
-         "Duracion" : 42,
-         "Temporada" : 1,
-         "Descripcion" : "Aparece Logan, un guapo personaje que comparte una historia con la tía Jenna, y es reportero. Viene con la esperanza de arreglar las cosas con ella. Elena y Stefan van a la fiesta de los Fundadores del Pueblo, hecha por los padres de Tyler Lockwood."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Para mi si estas muerto",
-         "Duracion" : 41,
-         "Temporada" : 1,
-         "Descripcion" : "En este episodio, Damon permanece encerrado en el sótano muy débil por la verbena. Mientras Damon se hace más débil, la relación entre Jeremy y Vicki crece."
-     },
- //Carnival Row
-     {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Lucha o huye",
          "Duracion" : 59,
          "Temporada" : 2,
          "Descripcion" : "Los amantes Philo y Vignette arriesgan sus vidas para ayudar a las hadas oprimidas de Carnival Row."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "La Nueva Era",
          "Duracion" : 60,
          "Temporada" : 2,
          "Descripcion" : "Cuando Philo planea amenazar el derecho hereditario de Jonah a la cancillería, Vignette interviene."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "La mano del Mártir",
          "Duracion" : 48,
          "Temporada" : 2,
          "Descripcion" : "Cuando Philo investiga los asesinatos de los líderes del Cuervo Negro, Vignette trama una venganza."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "La crueldad del Cuervo",
          "Duracion" : 52,
          "Temporada" : 2,
          "Descripcion" : "Philo se apresura a detener la venganza de Vignette antes de que el Cuervo Negro desate una violencia aún peor."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Ajuste de cuentas",
          "Duracion" : 55,
          "Temporada" : 2,
          "Descripcion" : "Philo planea el rescate de Vignette con un aliado inesperado. Jonah descubre la traición de Sophie. El asesino ataca de nuevo."
      },
- //Sobrenatural
-     {
-         "Icono" : "",
-         "Nombre" : "Piloto",
-         "Duracion" : 43,
-         "Temporada" : 1,
-         "Descripcion" : "Dos hermanos, Sam y Dean Winchester, presencian de niños la muerte paranormal de su madre y crecen siendo entrenados para pelear por un angustiado padre que no busca otra cosa que cazar aquello que mató a su esposa."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Wendigo",
-         "Duracion" : 43,
-         "Temporada" : 1,
-         "Descripcion" : "Sam y Dean siguen las coordenadas del diario de su padre y desembarcan en medio del bosque de Colorado. Allí investigan la desaparición de varios campistas."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Muerto en el agua",
-         "Duracion" : 43,
-         "Temporada" : 1,
-         "Descripcion" : "En un pequeño pueblo de Wisconsin, Sam y Dean investigan una serie de misteriosos ahogamientos oficialmente considerados como suicidios."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Viejo Fantasma",
-         "Duracion" : 42,
-         "Temporada" : 1,
-         "Descripcion" : "En el vuelo Transnacional 2485, un hombre poseído por el espíritu del Fantasma Viajero hace estrellar el avión dejando solo cinco supervivientes."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Bloody Mary",
-         "Duracion" : 43,
-         "Temporada" : 1,
-         "Descripcion" : "En las afueras de Nebraska, varios adolescentes fiesteros del instituto, haciendo una broma, retan a su amigo Charlie a mirar a un espejo y repetir: Bloody Mary, Bloody Mary, Bloody Mary."
-     },
- //El internado
-     {
-         "Icono" : "",
-         "Nombre" : "Capítulo 1: Los monstruos no hacen cosquillas",
-         "Duracion" : 69,
-         "Temporada" : 1,
-         "Descripcion" : "La llegada de María, la nueva limpiadora, al internado La Laguna Negra, tras haberse escapado de un psiquiátrico trastornará la apacible vida de Héctor, el carismático director del colegio, que forma pareja, hasta entonces perfecta, con Elsa, la estricta jefa de estudios. Entre ellos se irá produciendo un acercamiento que Elsa intentará evitar."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Capítulo 2: Todo el mundo tiene un secreto",
-         "Duracion" : 69,
-         "Temporada" : 1,
-         "Descripcion" : "María trata por todos los medios de conseguir las fichas médicas de los alumnos del internado. Su hijo tiene un grupo sanguíneo muy raro y los historiales despejarían todas las dudas. Sin embargo, algo va a cruzarse en su camino: la policía ha llegado a La Laguna Negra preguntando por ella y Jacinta, que se ha enterado de que se escapó de un psiquiátrico."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Capitulo 3: Ojos que no ven",
-         "Duracion" : 68,
-         "Temporada" : 1,
-         "Descripcion" : "Marcos descubre una entrada secreta en el armario de Alfonso que les conduce al desván. Allí, los chicos hacen un macabro hallazgo; unos ojos conservados en formol. Además encontrarán información, fotos y viejos periódicos que les permitirán atar cabos y reafirmarse en su idea de que algo malo le ha pasado a su viejo profesor."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Capítulo 4: Un mensaje en una botella",
-         "Duracion" : 69,
-         "Temporada" : 1,
-         "Descripcion" : "Carolina se hace pasar por Alfonso y manda un correo electrónico a Ricardo Montoya, con el que queda en el cementerio. El periodista explica a los chicos la desaparición, en los años 70, de los cinco pequeños huérfanos y les advierte del enorme peligro que corren si continúan con la investigación."
-     },
-     {
-         "Icono" : "",
-         "Nombre" : "Capítulo 5: Un cadáver en la laguna",
-         "Duracion" : 76,
-         "Temporada" : 1,
-         "Descripcion" : "Héctor descubre en la laguna el cadáver despedazado del periodista Ricardo Montoya. Los chicos, tras recuperarse del shock inicial, se dan cuenta de que han perdido la única prueba que tenían de la muerte de los cinco huérfanos. Cuando vuelven al pozo para tratar de encontrar alguna prueba más, verán cómo unos obreros están cerrando definitivamente la entrada. "
-     },
+//The Expanse
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "Dulcinea",
+        "Duracion" : 48,
+        "Temporada" : 1,
+        "Descripcion" : "En el cinturón de asteroides cerca de Saturno, James Holden y la tripulación del carguero de hielo Canterbury, camino a la estación de Ceres, investigan una llamada de socorro de una nave abandonada desconocida, el Scopuli."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "El gran vacío",
+        "Duracion" : 43,
+        "Temporada" : 1,
+        "Descripcion" : "Holden y su tripulación luchan por sobrevivir en un transbordador muy dañado, Knight. En la estación de Ceres, Julie Mao resulta más difícil de rastrear de lo que Miller había pensado tras descubrir que tiene vínculos con la Alianza de Planetas Externos, un grupo político extremista que lucha por los derechos de las colonias del cinturón de asteroides."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "Recordad el Cant",
+        "Duracion" : 43,
+        "Temporada" : 1,
+        "Descripcion" : "Holden y su tripulación caen prisioneros y son interrogados a bordo del buque insignia de la Marina de Marte, el Donnager. No tardarán mucho tiempo en pelearse entre ellos."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "CQB",
+        "Duracion" : 45,
+        "Temporada" : 1,
+        "Descripcion" : "Holden y su tripulación se ven atrapados en medio de una batalla desesperada cuando las misteriosas naves de guerra atacan y abordan el Donnager."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "De vuelta al carnicero",
+        "Duracion" : 43,
+        "Temporada" : 1,
+        "Descripcion" : "Holden y su tripulación hacen un trato con un dudoso aliado en la estación de Tycho."
+    },
+//Los Protegidos
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "¿Y ahora qué?",
+        "Duracion" : 89,
+        "Temporada" : 1,
+        "Descripcion" : "Jimena, una madre normal, se despierta en una pesadilla y es testigo de cómo secuestran a su hija. Sin entender lo que está pasando, su vida se hace pedazos y recorre la ciudad en busca de su pequeña. Pero la policía sólo le da negativas y desesperanza… hasta que conoce a Silvestre, quien sabe por qué han secuestrado a su hija y que hay más niños que están en peligro, más personas especiales."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "Ya vienen los Reyes",
+        "Duracion" : 70,
+        "Temporada" : 1,
+        "Descripcion" : "Es la mañana de reyes, pero “los protegidos” no tienen regalos… aunque ese es el menor de sus problemas. Su vecina y casera, Rosa, ha conseguido que admitan a los niños en el colegio, y eso supone, entre otras cosas, que tendrán que crearse identidades falsas… y falsificar documentos. Jimena está dispuesto a intentarlo, pero Mario piensa que es una locura que lo puede mandar a la cárcel."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "Los niños no dicen mentiras",
+        "Duracion" : 73,
+        "Temporada" : 1,
+        "Descripcion" : "La llegada de Silvestre a la casa de la familia Castillo no ha sido una grata sorpresa para todos. Lucía intuyó desde el principio que algo iba mal y advierte a su nueva familia que el hombre que se hace llamar Silvestre y dice ser su padre, no lo es en realidad. La identidad del nuevo inquilino se descubre y moviliza a todos los miembros de la casa."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "El robo",
+        "Duracion" : 71,
+        "Temporada" : 1,
+        "Descripcion" : "La familia Castillo continúa su vida “normal” y Lucas, se adapta al día a día. El presunto sobrino comienza su primer día de colegio. Sin embargo, a pesar de ser un chico muy especial, sus compañeros de clase ven en él el blanco de todas sus burlas y lo que podría ser un día normal se convierte en una pesadilla para Lucas."
+    },
+    {
+        "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
+        "Nombre" : "El piñatón",
+        "Duracion" : 76,
+        "Temporada" : 1,
+        "Descripcion" : "La familia Castillo intenta pasar desapercibida y su secretismo contagia a todos. Así que cuando Lucía y Carlitos se enteran de que en el colegio se va a celebrar un festival de integración social entre padres e hijos, deciden resignarse y no hacerse ilusiones. Pero Mario no está dispuesto a esconder a sus hijos como si fuesen delincuentes y, sin pensárselo dos veces, decide apuntarse."
+    },
  //Fear the Walking Dead
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Piloto",
          "Duracion" : 64,
          "Temporada" : 1,
          "Descripcion" : "Una familia disfuncional y fracturada se ve obligada a unirse, al enterarse de que un supuesto virus es, en realidad, el comienzo del apocalipsis zombi."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Tan cerca, pero tan lejos",
          "Duracion" : 43,
          "Temporada" : 1,
          "Descripcion" : "Mientras Madison intenta a ayudar a Nick a soportar la abstinencia, Travis se aventura a salir a buscar a su hijo, antes de que la ciudad de Los Ángeles se colapse."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El perro",
          "Duracion" : 48,
          "Temporada" : 1,
          "Descripcion" : "Tras escapar de una violenta protesta, Travis, Liza y Chris buscan refugio en el local de la familia Salazar. Mientras, Madison defiende su casa."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "No te desvanezcas",
          "Duracion" : 46,
          "Temporada" : 1,
          "Descripcion" : "Madison y Travis ven las dos caras de la ocupación militar de su vecindario, mientras la familia intenta adaptarse al nuevo mundo."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Cobalto",
          "Duracion" : 45,
          "Temporada" : 1,
@@ -960,35 +960,35 @@ const arrayCapitulos = [
      },
  //The Purge
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "¿Qué es América?",
          "Duracion" : 51,
          "Temporada" : 1,
          "Descripcion" : "Una vez al año, por un período de 12 horas, cualquier tipo de crimen es legal en Estados Unidos. Hasta el asesinato."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Coged lo que es vuestro",
          "Duracion" : 42,
          "Temporada" : 1,
          "Descripcion" : "Jane reflexiona acerca de la moralidad de la Purga. Miguel busca de Pete el policía."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "La necesidad de purgar",
          "Duracion" : 41,
          "Temporada" : 1,
          "Descripcion" : "Penelope se prepara para su sacrificio. Rick y Jenna evalúan los costes para cerrar el negocio."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Liberad a la bestia",
          "Duracion" : 41,
          "Temporada" : 1,
          "Descripcion" : "Jane debe salir de la oficina. Lila consuela a Jenna. Penelope es lanzada a la Feria de la sangre."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Alzaos",
          "Duracion" : 41,
          "Temporada" : 1,
@@ -996,35 +996,35 @@ const arrayCapitulos = [
      },
  //Se lo que hicisteis el ultimo verano
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Es jueves",
          "Duracion" : 50,
          "Temporada" : 1,
          "Descripcion" : "Lennon Grant regresa a casa después de su primer año en la universidad y descubre que alguien conoce el terrible secreto que ella y su pandilla de amigos juraron guardar el verano pasado."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "No es solo para mierda de perro",
          "Duracion" : 0,
          "Temporada" : 1,
          "Descripcion" : "Tras tiempo separados, los amigos se reúnen para tratar de averiguar quién podría haber revelado su secreto o quién más sabe lo que hicieron, y ello acaba en un asesinato."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Una cabeza de gorila no sirve",
          "Duracion" : 46,
          "Temporada" : 1,
          "Descripcion" : "Incapaces de acudir a las autoridades sin revelar su secreto, los miembros de la pandilla deben resolver el misterio por su cuenta. Aparecen más cuerpos, mientras comprenden que están siendo incansablemente perseguidos."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Ensalada de gambas caliente",
          "Duracion" : 46,
          "Temporada" : 1,
          "Descripcion" : "Lennon descubre secretos sobre su gemela y comienza a temer lo peor sobre la verdadera identidad de la persona que asesina a sus amigos. La comunidad local está conmocionada por los asesinatos."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Mukbang",
          "Duracion" : 44,
          "Temporada" : 1,
@@ -1032,35 +1032,35 @@ const arrayCapitulos = [
      },
  //Peaky Blinders
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Episodio 1",
          "Duracion" : 57,
          "Temporada" : 1,
          "Descripcion" : "Thomas Shelby, líder de los Peaky Blinders, se adueña de un cargamento de armas de la fábrica local. Consciente de que mantener las armas puede causarle problemas con la Ley, Thomas quiere usarlas para aumentar el poder de su banda y, por ello, ignora las súplicas de su tia Polly para deshacerse de las mismas."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Episodio 2",
          "Duracion" : 58,
          "Temporada" : 1,
          "Descripcion" : "Thomas Shelby intentará trabajar con Billy Kimber, el hombre que puede ayudarlo a conseguir llevar un negocio de carreras de caballos legalmente. Para poder hacerlo, genera un conflicto con los Lees, una familia gitana que ha estado robando dinero de los apostadores de Kimber. Por otra parte, Polly se preocupa al enterarse del embarazo de Ada porqué sabe que a Thomas no le va a gustar."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Episodio 3",
          "Duracion" : 55,
          "Temporada" : 1,
          "Descripcion" : "Thomas Shelby planea ir a las carreras de Cheltenham con la finalidad de estar más cerca de Billy Kimber. Conociendo el apetito del gángster por las mujeres hermosas, Thomas decide invitar a Grace al evento."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Episodio 4",
          "Duracion" : 58,
          "Temporada" : 1,
          "Descripcion" : "La guerra de Thomas Shelby contra la familia Lee se intensifica y Campbell cada vez le mete más presión para que entregue las armas robadas. Mientras tanto, el hermano de Thomas, John, quiere casarse con una ex prostituta pero Thomas sospecha que aún sigue en activo..."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Episodio 5",
          "Duracion" : 56,
          "Temporada" : 1,
@@ -1068,35 +1068,35 @@ const arrayCapitulos = [
      },
  //The Walking Dead: World Beyond 
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Valor",
          "Duracion" : 53,
          "Temporada" : 1,
          "Descripcion" : "Iris da la bienvenida a su comunidad a un misterioso aliado, mientras Hope se cuestiona los verdaderos motivos de los visitantes. Un mensaje pondrá del revés la concepción del mundo de las hermanas y las ogbligará a decidir entre la seguridad de sus hogares y la incertidumbre de un mundo más allá de los muros."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "La Pira de la Desesperanza",
          "Duracion" : 47,
          "Temporada" : 1,
          "Descripcion" : "El grupo se adapta a la realidad de la vida más allá de los muros de su comunidad. Iris intenta tomar el mando, a pesar de las objeciones de Hope. Felix y Huck siguen el rastro de los adolescentes, mientras Felix se ve forzado a enfrentarse a recuerdos no deseados."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El Tigre y el Cordero",
          "Duracion" : 47,
          "Temporada" : 1,
          "Descripcion" : "Marcados por su pasado, los miembros del grupo adoptan diferentes estrategias para lidiar con un gran obstáculo. El grupo se ve presionado a volver a casa."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El lado equivocado de un telescopio",
          "Duracion" : 46,
          "Temporada" : 1,
          "Descripcion" : "El grupo se refugia de una tormenta dentro de un instituto abandonado. Mientras se reabastecen, se imaginan cómo era la vida de instituto y se enfrentan a nuevas amenazas, tanto vivas como muertas."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Surcando las aguas",
          "Duracion" : 46,
          "Temporada" : 1,
@@ -1104,35 +1104,35 @@ const arrayCapitulos = [
      },
  //Sexo/Vida
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "The Wives Are in Connecticut",
          "Duracion" : 44,
          "Temporada" : 1,
          "Descripcion" : "Billie, que se siente frustrada por el declive de la pasión en su matrimonio, empieza a escribir un diario sobre sus salvajes hazañas eróticas con su exnovio Brad."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Drown in the Tube Station at Midnight",
          "Duracion" : 44,
          "Temporada" : 1,
          "Descripcion" : "Un día cargado de emociones para Billie da paso a una excitante noche de aventuras cuando Cooper se propone avivar la llama de su matrimonio."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Empire State of Mind",
          "Duracion" : 52,
          "Temporada" : 1,
          "Descripcion" : "Mientras Cooper decide ojear a su competidor, Billie se aferra a los apasionados puntos álgidos y los demoledores momentos bajos que definieron su romance con Brad."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "New New York",
          "Duracion" : 43,
          "Temporada" : 1,
          "Descripcion" : "Billie se acuerda de brad durante un día en la ciudad con otras madres.. y acaba recurriendo a Sasha. Cooper se sincera sobre sus problemas matrimoniales."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "The Sound of the Suburbs",
          "Duracion" : 47,
          "Temporada" : 1,
@@ -1140,35 +1140,35 @@ const arrayCapitulos = [
      },
  //Jane The Virgin
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Capitulo 1: Piloto",
          "Duracion" : 40,
          "Temporada" : 1,
          "Descripcion" : "La vida de una trabajadora y religiosa joven de ascendencia venezolana cambia radicalmente cuando una médica la insemina artificialmente sin querer"
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Capítulo 2",
          "Duracion" : 42,
          "Temporada" : 1,
          "Descripcion" : "Cuando sale a la luz el desenfrenado pasado del padre de su hija, Jane decide seguir trabajando en el hotel para ver si Rafael y su mujer podrían ser buenos padres."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Capítulo 3",
          "Duracion" : 41,
          "Temporada" : 1,
          "Descripcion" : "Jane decide que no tiene ningún sentido aferrarse a su virginidad y planea una cita romántica con Michael, a pesar de sus sentimientos en ciernes por Rafael."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Capítulo 4",
          "Duracion" : 42,
          "Temporada" : 1,
          "Descripcion" : "Jane se siente culpable por no poder controlar sus sentimientos hacia Rafael. Xo pone en juego la relación con su hija contando la verdad sobre el padre de Jane."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Capítulo 5",
          "Duracion" : 42,
          "Temporada" : 1,
@@ -1176,35 +1176,35 @@ const arrayCapitulos = [
      },
  //Luna Nera
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Presagio",
          "Duracion" : 46,
          "Temporada" : 1,
          "Descripcion" : "La joven Ade tiene un mal presagio mientras ayuda a su abuela en un parto. Cuando acusan a las dos de brujería, una es sentenciada a muerte."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Libro",
          "Duracion" : 43,
          "Temporada" : 1,
          "Descripcion" : "Ade descubre la existencia del Libro de los Reinos y la historia de las Ciudades perdidas. Cesaria y Spirto buscan pistas en la casa de Natalia."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Voces",
          "Duracion" : 40,
          "Temporada" : 1,
          "Descripcion" : "Ade, atormentada por las voces de mujeres, no sabe qué respuesta darle a Pietro. Leptis le enseña a Valente a manejar el arco y la flecha."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Destino",
          "Duracion" : 43,
          "Temporada" : 1,
          "Descripcion" : "Pietro, en pleno duelo, rechaza a Ade y se plantea sumarse a la causa de su padre. Ade, Tebe y las otras brujas salvan a mas muejres."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Armas",
          "Duracion" : 43,
          "Temporada" : 1,
@@ -1212,35 +1212,35 @@ const arrayCapitulos = [
      },
  //Todos quieren a Daisy Jones
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Pista 1: Ven a por ello",
          "Duracion" : 48,
          "Temporada" : 1,
          "Descripcion" : "Daisy Jones es una adolescente infeliz que encuentra su camino en el ambiente rockero del Sunset Strip. A las afueras de Pensilvania, Billy Dunne, su hermano, Graham, y sus mejores amigos, Eddie y Warren forman una banda desesperados por salir de su pueblo. Cuando Billy y Daisy se conocen, su talento y su ambición se unirán para cambiar la vida de todos, para bien o para mal. Así es cómo ocurrió."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Pista 2: Yo te llevaré hasta ahí",
          "Duracion" : 51,
          "Temporada" : 1,
          "Descripcion" : "Tras descubrir su propia voz, Daisy se adentra en el ambiente musical de Los Ángeles aconsejada por su amiga, Simone, y por el productor Teddy Price. Ya en Los Ángeles, y con Karen Sirko al teclado, los Dunne Brothers deben superar sus propios retos para alcanzar la fama. Tras un alentador encuentro con Teddy, la banda tendrá que lidiar con los demonios de Billy, que podrían frenar su carrera."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Pista 3: Alguien me ha salvado la vida esta noche",
          "Duracion" : 49,
          "Temporada" : 1,
          "Descripcion" : "Billy, ya recuperado, trata de conciliar su vocación artística y su vida personal, mientras el resto de la banda recoge los restos de una gira desastrosa. Al mismo tiempo, Daisy no es capaz de componer nada si tiene que cumplir con las expectativas de otros. Cuando Billy compone una nueva canción, Teddy descubre que si ambos artistas colaboran, esa podría ser la solución a todos sus problemas."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Pista 4: Vi la luz",
          "Duracion" : 51,
          "Temporada" : 1,
          "Descripcion" : "The Six por fin saborea cómo es la vida por la que tanto han trabajado cuando su colaboración con Daisy es un rotundo éxito. En vez de disminuir la tensión existente entre ambos compositores, esto solo la aumenta, hasta que Camila interviene. Mientras tanto, Graham duda si confesar a Karen lo que siente por ella durante una fiesta en Canyon, pues eso podría amenazar la estabilidad de la banda."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Pista 5: Fuego",
          "Duracion" : 49,
          "Temporada" : 1,
@@ -1248,35 +1248,35 @@ const arrayCapitulos = [
      },
  //MOM
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Pilot",
          "Duracion" : 23,
          "Temporada" : 1,
          "Descripcion" : "Christy recibe la visita de su madre, con la que tendrá que aprender a llevarse bien."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "A Pee Stick and an Asian Raccoon",
          "Duracion" : 21,
          "Temporada" : 1,
          "Descripcion" : "Christy y Bonnie se las arreglan para luchar por superar una crisis familiar."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "A Small Nervous Breakdown and a Misplaced Fork",
          "Duracion" : 21,
          "Temporada" : 1,
          "Descripcion" : "Christy rebusca en su agenda de ligues mientras Bonnie enseña a Roscoe algunos de sus trucos."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Loathing and Tube Socks",
          "Duracion" : 20,
          "Temporada" : 1,
          "Descripcion" : "La paciencia de Christy es puesta a prueba por todos los que están a su alrededor. Bonnie se encuentra con un antiguo rival."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Six Thousand Bootleg T-Shirts and a Prada Handbag",
          "Duracion" : 21,
          "Temporada" : 1,
@@ -1284,35 +1284,35 @@ const arrayCapitulos = [
      },
  //Do, Re & Mi
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El pajarito curiosito / Que llueva, que llueva, todo lo que quiera",
          "Duracion" : 22,
          "Temporada" : 1,
          "Descripcion" : "EL PAJARITO CURIOSITO: Do se despierta con un ritmo que suena y quiere saber qiuén lo hace y por qué no puede evitar que sus pies lo sigan. QUE LLUEVA, QUE LLUEVA, TODO LO QUE QUIERA: Cuando cae una tormenta sobre Beebopsburgo, la casa de Mi empieza a tener goteras y eso les arruina la merienda."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El blues del mejor luciernamigo / Escucha a tu cuerpo",
          "Duracion" : 23,
          "Temporada" : 1,
          "Descripcion" : "EL BLUES DEL MEJOR LUCIERNAMIGO: Cuando Presto se va de vacaciones a visitar a su familia durante dos días, Mi lo echa mucho de menos. Do y Re la ayudan a sentirse mejor. ESCUCHA A TU CUERPO: Cuando Re se hace daño en la cola, sus amigos se esfuerzan por que esté tranquila y deje que su cuerpo se cure."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "No me rendiré / Mírame, soy pequeñita",
          "Duracion" : 24,
          "Temporada" : 1,
          "Descripcion" : "NO ME RENDIRÉ: Do aprende que si persevera, puede dominar uno de los pasos de volar: un aterrizaje espectacular. MÍRAME, SOY PEQUEÑITA: Han pedido a Re que actué con Flora y los Flamencos Gogós, pero los flamencos a los que tanto admira la intimidan por ser pequeña."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Cupcakes de frambuesa / Juntos no estamos solos",
          "Duracion" : 24,
          "Temporada" : 1,
          "Descripcion" : "CUPCAKES DE FRAMBUESA: Re intenta enseñar a los polluelos a hacer magdalenas de frambuesa, pero antes tiene que conseguir que le presten atención. JUNTOS NO ESTAMOS SOLOS: Los amigos se pierden en el bosque y vuelven sobre sus pasos siguiendo los sonidos que han escuchado al entrar."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El día de Maestra Luna / El día de los amigos alados",
          "Duracion" : 24,
          "Temporada" : 1,
@@ -1320,35 +1320,35 @@ const arrayCapitulos = [
      },
  //Winx Club
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Un acontecimiento inesperado",
          "Duracion" : 22,
          "Temporada" : 1,
          "Descripcion" : "Bloom, una chica normal, descubre que tiene poderes mágicos cuando se encuentra en medio de una pelea entre un hada, Stella, y un ogro, Knut."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Bienvenida a Magix",
          "Duracion" : 23,
          "Temporada" : 1,
          "Descripcion" : "Bloom llega a Alfea y conoce a sus compañeras de habitación: Stella, Musa, Tecna y Flora."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El instituto alfea para hadas",
          "Duracion" : 24,
          "Temporada" : 1,
          "Descripcion" : "Todas las chicas están emocionadas con la bola de Alfea y Fuente Roja, pero las Trix aparecerán para estropear las cosas."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "El pantano de barro negro",
          "Duracion" : 22,
          "Temporada" : 1,
          "Descripcion" : "Las chicas se van de excursión con la escuela para probar su destreza a la hora de trabajar con la naturaleza sin usar la magia."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Cita con el desastre",
          "Duracion" : 24,
          "Temporada" : 1,
@@ -1356,35 +1356,35 @@ const arrayCapitulos = [
      },
  //Pokemon Rubí y Zafiro
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Todos en camino",
          "Duracion" : 21,
          "Temporada" : 601,
          "Descripcion" : "El intento fallido del Team Rocket por atrapar a Pikachu ha dejado al pequeño Pokémon amarillo muy enfermo. Villa Raíz no tiene Centro Pokémon, así que Ash se dirige al Profesor Abedul en busca de ayuda."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Ruinas legendarias",
          "Duracion" : 21,
          "Temporada" : 601,
          "Descripcion" : "Ahora que Pikachu se siente mejor, Ash está listo para ir a Pueblo Escaso y apuntarse a la Liga Hoenn."
      },    
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "No hay otro lugar como Hoenn",
          "Duracion" : 21,
          "Temporada" : 601,
          "Descripcion" : "Ash y Aura han conseguido llegar hasta Ciudad Petalia, la primera ciudad con un Gimnasio. Ash está muy emocionado por enfrentarse al Líder de Gimnasio."
      },    
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "No hay quien venza a Taillow",
          "Duracion" : 21,
          "Temporada" : 601,
          "Descripcion" : "Ash, Aura y el hermano pequeño de Aura, Max, están ahora camino de Ciudad Férrica, ¡y están hambrientos! Nadie se ha acordado de llevar comida."
      },    
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "¡Entrenadores panticortos!",
          "Duracion" : 21,
          "Temporada" : 601,
@@ -1392,35 +1392,35 @@ const arrayCapitulos = [
      },
  //Caillou
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Brilla, Brilla Estrellita/Todo Un Dia De Trabajo/El Maullido Del Gato/Caillou En El Espacio",
          "Duracion" : 23,
          "Temporada" : 1,
          "Descripcion" : "Caillou y su familia están en casa de los abuelos para cenar maíz asado. Todos se maravillan con el cielo estrellado, que le da al abuelo la oportunidad perfecta para sacar su telescopio y enseñarle las constelaciones a Caillou. / La casa se levanta tarde, y eso significa darse prisa para llegar al trabajo y a la guardería."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Caillou Combate El Calor/El Conductor Del Asiento De Atrás/Perdido Y Encontrado/Magia Navideña",
          "Duracion" : 23,
          "Temporada" : 2,
          "Descripcion" : "Hace mucho calor y mamá no deja que Caillou vaya a la piscina porque han ido todos los días esta semana. Cuando Caillou se niega a ponerse crema solar y Rosie no quiere dormir, mamá se da cuenta de que el calor está poniéndolos a todos de mal humor. Caillou y ella dan con la solución: encienden los aspersores del jardín para pasar un buen rato, sin necesidad de un equipo sofisticado."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Un Dia En La Nieve/Proxima Parada Diversion/A Toda Vela/Caillou Granjero",
          "Duracion" : 23,
          "Temporada" : 2,
          "Descripcion" : "Mamá, amante del esquí, lleva a Caillou a esquiar en una colina mientras papá y Rosie se quedan en el cómodo chalé y los miran. Al principio, a Caillou le da miedo, pero con la ayuda de mamá, llega al final de la pendiente y se divierte mucho. Después, van todos a deslizarse y a tomar chocolate caliente."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Almuerzo Dominguero/Caillou Al Rescate/La Litera De Caillou/Receta Para Divertirse",
          "Duracion" : 23,
          "Temporada" : 1,
          "Descripcion" : "Caillou, papá y Rosie llevan a mamá a desayunar el domingo para celebrar el día de la madre. Van a un restaurante elegante y papá les explica a Caillou y Rosie que tienen que portarse muy bien. Caillou incluso se pone corbata. / Gilbert se queda atrapado en un árbol, y para el deleite de Caillou, viene un camión de bomberos lleno de bomberos a rescatarlo."
      },
      {
-         "Icono" : "",
+         "Icono" : "https://cdn-icons-png.flaticon.com/512/0/375.png",
          "Nombre" : "Los Niños Nuevos Del Barrio/Caillou Va Al Colegio/La Cocina De Caillou/La Aventura Marina De Caillou",
          "Duracion" : 23,
          "Temporada" : 1,
