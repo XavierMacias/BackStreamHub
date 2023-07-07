@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "cruceros-seed": "node ./src/seeds/cruceros.seed.js",
-    "escapadas-seed": "node ./src/seeds/escapadas.seed.js",
-    "islas-seed": "node ./src/seeds/islas.seed.js",
+    "series-seed": "node ./src/seeds/series.seed.js",
+    "capitulos-seed": "node ./src/seeds/capitulos.seed.js",
+    "libros-seed": "node ./src/seeds/libros.seed.js",
     "spas-seed": "node ./src/seeds/spas.seed.js",
     "users-seed": "node ./src/seeds/users.seed.js"
   },
