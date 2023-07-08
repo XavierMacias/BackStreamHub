@@ -69,4 +69,23 @@ const deleteSerie = async(req,res) => {
 
 }
 
-module.exports = {getSeries,getSeriesById,postSerie, putSerie, deleteSerie}
+const addCapituloToSerie = async(req, res) => {
+    try {
+        const {id} = req.params; // id serie
+        const id_chapter = req.body._id;
+
+        const updatedSerie = await Serie.findByIdAndUpdate(
+            id,
+            { $push: { Capitulos: id_chapter } },
+            { new: true }
+        );
+        if (!updatedSerie) {
+            return res.status(404).json({ message: "Serie not found." });
+        }
+        return res.status(200).json(updatedSerie);
+    } catch (error) {
+        return res.status(500).json(error)
+    }
+}
+
+module.exports = {getSeries,getSeriesById,postSerie, putSerie, deleteSerie, addCapituloToSerie}
