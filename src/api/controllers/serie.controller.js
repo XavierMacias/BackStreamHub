@@ -12,7 +12,7 @@ const getSeries = async(req, res) => {
 const getSeriesById = async(req,res)=>{
     try {
         const {id}=req.params;
-        const SeriesById = await Serie.findById(id);
+        const SeriesById = await Serie.findById(id).populate("Capitulos");
         return res.status(200).json(SeriesById)
     } catch (error) {
         return res.status(500).json(error);
