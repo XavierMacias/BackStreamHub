@@ -7,7 +7,7 @@ const serieSchema = new Schema(
         Portada: {type: String, require: true},
         Nombre: {type: String, required: true},
         Trailer: {type: String, require: true},
-        Genero: [{type: String, required: true}],
+        Genero: [{type: String}],
         Descripcion: {type: String, required: true},
         Capitulos: [{type: Schema.Types.ObjectId, ref:'capitulo'}],
         Valoracion: {type: Number},
