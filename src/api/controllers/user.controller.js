@@ -12,8 +12,14 @@ const login = async(req, res) => {
         if(userInfo.Email != req.body.Email){
             return res.status(404).json({message: 'Email is not registered'});
         }
-        if(!bcrypt.compareSync(req.body.Password, userInfo.Password)){
-            return res.status(404).json({message: 'Password is incorrect'});
+        if(userInfo.Role == "user") {
+            if(!bcrypt.compareSync(req.body.Password, userInfo.Password)){
+                return res.status(404).json({message: 'Password is incorrect'});
+            }
+        } else {
+            if(userInfo.Password != req.body.Password){
+                return res.status(404).json({message: 'Password is incorrect'});
+            }
         }
         const token = generateSign(userInfo._id, userInfo.Email);
         return res.status(200).json({user:userInfo, token:token});
