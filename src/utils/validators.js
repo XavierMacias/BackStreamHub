@@ -13,7 +13,7 @@ const validatePassword = (password) => {
 }
 
 const usedEmail = async(email) => {
-    const users = await User.find({ email: email });
+    const users = await User.find({ Email: email });
     console.log(users.length)
     return users.length;
 }

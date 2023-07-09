@@ -5,8 +5,11 @@ const bcrypt = require("bcrypt");
 
 const login = async(req, res) => {
     try {
-        const userInfo = await User.findOne({Email: req.body.email});
+        const userInfo = await User.findOne({Username: req.body.Username});
         if(!userInfo){
+            return res.status(404).json({message: 'Username is not registered'});
+        }
+        if(userInfo.Email != req.body.Email){
             return res.status(404).json({message: 'Email is not registered'});
         }
         if(!bcrypt.compareSync(req.body.Password, userInfo.Password)){
