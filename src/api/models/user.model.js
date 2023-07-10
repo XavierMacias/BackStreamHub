@@ -8,7 +8,9 @@ const userSchema = new Schema(
         Username: {type: String, required: true},
         Email: {type: String, required: true},
         Password: {type: String, required: true},
-        Favoritos: [{type: String}],
+        PeliculasFavoritas: [{type: Schema.Types.ObjectId, ref:'pelicula'}],
+        SeriesFavoritas: [{type: Schema.Types.ObjectId, ref:'serie'}],
+        LibrosFavoritos: [{type: Schema.Types.ObjectId, ref:'libro'}],
         Role: {type: String, default: 'user', enum: ['admin', 'user']}
     }
 )

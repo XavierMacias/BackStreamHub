@@ -7,28 +7,36 @@ const arrayUsers = [
         "Username": "Nerea",
         "Email": "nerea@gmail.com",
         "Password": "Nerea123$",
-        "Favoritos": [],
+        "PeliculasFavoritas": [],
+        "SeriesFavoritas": [],
+        "LibrosFavoritos": [],
         "Role": "admin"
     },
     {
         "Username": "Xavi",
         "Email": "xavi@gmail.com",
         "Password": "Xavi123$",
-        "Favoritos": [],
+        "PeliculasFavoritas": [],
+        "SeriesFavoritas": [],
+        "LibrosFavoritos": [],
         "Role": "admin"
     },
     {
         "Username": "Santi",
         "Email": "santi@gmail.com",
         "Password": "Santi123$",
-        "Favoritos": [],
+        "PeliculasFavoritas": [],
+        "SeriesFavoritas": [],
+        "LibrosFavoritos": [],
         "Role": "admin"
     },
     {
         "Username": "Cristian",
         "Email": "cristian@gmail.com",
         "Password": "Cristian123$",
-        "Favoritos": [],
+        "PeliculasFavoritas": [],
+        "SeriesFavoritas": [],
+        "LibrosFavoritos": [],
         "Role": "admin"
     },
 
