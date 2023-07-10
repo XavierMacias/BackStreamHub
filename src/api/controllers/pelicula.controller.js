@@ -74,8 +74,9 @@ const deletePelicula = async(req,res) => {
 const addResenaToPelicula = async(req, res) => {
     try {
         const {id} = req.params; // id serie
-        const id_review = req.body._id;
-        //console.log(id_review);
+        //const id_review = req.body._id;
+        const id_review = req.body.idReview;
+        console.log(req.body);
 
         const updatedPeli = await Pelicula.findByIdAndUpdate(
             id,
