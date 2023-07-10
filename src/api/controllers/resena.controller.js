@@ -2,7 +2,7 @@ const Resena = require('../models/resena.model');
 
 const getResenas = async(req,res) => {
     try {
-        const allResenas = await Resena.find();
+        const allResenas = await Resena.find().populate("Username","Username");
         return res.status(200).json(allResenas);
     } catch (error) {
         return res.status(500).json(error)

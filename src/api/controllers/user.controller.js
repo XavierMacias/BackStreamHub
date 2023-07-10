@@ -65,4 +65,14 @@ const checkSession = (req, res) => {
     }
 }
 
-module.exports = {login, register, checkSession}
+const getUserById = async(req,res)=>{
+    try {
+        const {id}=req.params;
+        const userById = await User.findById(id);
+        return res.status(200).json(userById);
+    } catch (error) {
+        return res.status(500).json(error);
+    }
+}
+
+module.exports = {login, register, checkSession, getUserById}
