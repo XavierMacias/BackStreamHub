@@ -11,7 +11,7 @@ const getResenas = async(req,res) => {
 const getResenaById = async(req,res)=>{
     try {
         const {id}=req.params;
-        const resenaById = await Resena.findById(id);
+        const resenaById = await Resena.findById(id).populate("Username", "Username");
         return res.status(200).json(resenaById)
     } catch (error) {
         return res.status(500).json(error);

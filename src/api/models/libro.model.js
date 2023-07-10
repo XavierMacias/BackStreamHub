@@ -10,7 +10,7 @@ const libroSchema = new Schema(
         Genero: [{type: String}],
         Descripcion: {type: String, required: true},
         Valoracion: {type: Number},
-        Reseña: [{type: Schema.Types.ObjectId, ref:'resena'}]
+        Resena: [{type: Schema.Types.ObjectId, ref:'resena'}]
     },{
         timestamps: true
     }

@@ -8,11 +8,11 @@ const peliculaSchema = new Schema(
         Nombre: {type: String, required: true},
         Trailer: {type: String, required: true},
         Duracion: {type: Number, required: true},
-        Año: {type: Number, required: true},
+        Fecha: {type: Number, required: true},
         Genero: [{type: String}],
         Descripcion: {type: String, required: true},
         Valoracion: {type: Number},
-        Reseña: [{type: Schema.Types.ObjectId, ref:'resena'}]
+        Resena: [{type: Schema.Types.ObjectId, ref:'resena'}]
     },{
         timestamps: true
     }

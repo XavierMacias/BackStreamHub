@@ -11,7 +11,7 @@ const serieSchema = new Schema(
         Descripcion: {type: String, required: true},
         Capitulos: [{type: Schema.Types.ObjectId, ref:'capitulo'}],
         Valoracion: {type: Number},
-        Reseña: [{type: Schema.Types.ObjectId, ref:'resena'}]
+        Resena: [{type: Schema.Types.ObjectId, ref:'resena'}]
     },{
         timestamps: true
     }

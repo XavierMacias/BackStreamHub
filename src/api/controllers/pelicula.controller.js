@@ -13,7 +13,7 @@ const getPelicula = async(req,res) => {
 const getPeliculaById = async(req,res)=>{
     try {
         const {id}=req.params;
-        const peliculaById = await Pelicula.findById(id);
+        const peliculaById = await Pelicula.findById(id).populate("Resena");
         return res.status(200).json(peliculaById)
     } catch (error) {
         return res.status(500).json(error);
@@ -71,4 +71,24 @@ const deletePelicula = async(req,res) => {
 
 }
 
-module.exports = {getPelicula,getPeliculaById, postPelicula, putPelicula, deletePelicula}
+const addResenaToPelicula = async(req, res) => {
+    try {
+        const {id} = req.params; // id serie
+        const id_review = req.body._id;
+        //console.log(id_review);
+
+        const updatedPeli = await Pelicula.findByIdAndUpdate(
+            id,
+            { $push: { Resena: id_review } },
+            { new: true }
+        );
+        if (!updatedPeli) {
+            return res.status(404).json({ message: "Pelicula not found." });
+        }
+        return res.status(200).json(updatedPeli);
+    } catch (error) {
+        return res.status(500).json(error)
+    }
+}
+
+module.exports = {getPelicula,getPeliculaById, postPelicula, putPelicula, deletePelicula, addResenaToPelicula}
