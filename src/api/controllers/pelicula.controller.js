@@ -13,7 +13,12 @@ const getPelicula = async(req,res) => {
 const getPeliculaById = async(req,res)=>{
     try {
         const {id}=req.params;
-        const peliculaById = await Pelicula.findById(id).populate("Resena");
+        const peliculaById = await Pelicula.findById(id).populate({
+            path : 'Resena',
+            populate : {
+              path : 'Username'
+            }
+          });
         return res.status(200).json(peliculaById)
     } catch (error) {
         return res.status(500).json(error);

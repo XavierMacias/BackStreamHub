@@ -13,7 +13,12 @@ const getLibros = async(req,res) => {
 const getLibroById = async(req,res)=>{
     try {
         const {id}=req.params;
-        const libroById = await Libro.findById(id).populate("Resena");;
+        const libroById = await Libro.findById(id).populate({
+            path : 'Resena',
+            populate : {
+              path : 'Username'
+            }
+          });
         return res.status(200).json(libroById)
     } catch (error) {
         return res.status(500).json(error);
