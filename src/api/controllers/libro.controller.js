@@ -13,7 +13,7 @@ const getLibros = async(req,res) => {
 const getLibroById = async(req,res)=>{
     try {
         const {id}=req.params;
-        const libroById = await Libro.findById(id);
+        const libroById = await Libro.findById(id).populate("Resena");;
         return res.status(200).json(libroById)
     } catch (error) {
         return res.status(500).json(error);
@@ -71,4 +71,23 @@ const deleteLibro = async(req,res) => {
 
 }
 
-module.exports = {getLibros,getLibroById, postLibros, putLibros, deleteLibro}
+const addResenaToLibro = async(req, res) => {
+    try {
+        const {id} = req.params; // id libro
+        const id_review = req.body.idReview;
+
+        const updatedLibro = await Libro.findByIdAndUpdate(
+            id,
+            { $push: { Resena: id_review } },
+            { new: true }
+        );
+        if (!updatedLibro) {
+            return res.status(404).json({ message: "Libro not found." });
+        }
+        return res.status(200).json(updatedLibro);
+    } catch (error) {
+        return res.status(500).json(error)
+    }
+}
+
+module.exports = {getLibros,getLibroById, postLibros, putLibros, deleteLibro, addResenaToLibro}
