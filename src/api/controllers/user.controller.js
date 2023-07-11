@@ -136,4 +136,64 @@ const addLibroToFavorito = async(req, res) => {
     }
 }
 
-module.exports = {login, register, checkSession, getUserById, addLibroToFavorito, addPeliculaToFavorito, addSerieToFavorito}
+const removePeliculaFavorito = async(req, res) => {
+    try {
+        const {id} = req.params; // id usuario
+        //const id_review = req.body._id;
+        const id_pelicula = req.body.idPelicula;
+
+        const updatedUser = await User.findByIdAndUpdate(
+            id,
+            { $pull: { PeliculasFavoritas: id_pelicula} },
+            { new: true }
+        );
+        if (!updatedUser) {
+            return res.status(404).json({ message: "Pelicula not found." });
+        }
+        return res.status(200).json(updatedUser);
+    } catch (error) {
+        return res.status(500).json(error)
+    }
+}
+
+const removeSerieFavorito = async(req, res) => {
+    try {
+        const {id} = req.params; // id usuario
+        //const id_review = req.body._id;
+        const id_serie = req.body.idSeries;
+
+        const updatedUser = await User.findByIdAndUpdate(
+            id,
+            { $pull: { SeriesFavoritas: id_serie} },
+            { new: true }
+        );
+        if (!updatedUser) {
+            return res.status(404).json({ message: "serie not found." });
+        }
+        return res.status(200).json(updatedUser);
+    } catch (error) {
+        return res.status(500).json(error)
+    }
+}
+
+const removeLibroFavorito = async(req, res) => {
+    try {
+        const {id} = req.params; // id usuario
+        //const id_review = req.body._id;
+        const id_libro = req.body.idLibro;
+
+        const updatedUser = await User.findByIdAndUpdate(
+            id,
+            { $pull: { LibrosFavoritos: id_libro} },
+            { new: true }
+        );
+        if (!updatedUser) {
+            return res.status(404).json({ message: "libro not found." });
+        }
+        return res.status(200).json(updatedUser);
+    } catch (error) {
+        return res.status(500).json(error)
+    }
+}
+
+module.exports = {login, register, checkSession, getUserById, addLibroToFavorito, addPeliculaToFavorito, addSerieToFavorito, removeLibroFavorito, removePeliculaFavorito, removeSerieFavorito}
