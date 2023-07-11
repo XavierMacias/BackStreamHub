@@ -12,7 +12,7 @@ const getSeries = async(req, res) => {
 const getSeriesById = async(req,res)=>{
     try {
         const {id}=req.params;
-        const SeriesById = await Serie.findById(id).populate("Capitulos");
+        const SeriesById = await Serie.findById(id).populate("Capitulos").populate("Resena");
         return res.status(200).json(SeriesById)
     } catch (error) {
         return res.status(500).json(error);
@@ -88,4 +88,23 @@ const addCapituloToSerie = async(req, res) => {
     }
 }
 
-module.exports = {getSeries,getSeriesById,postSerie, putSerie, deleteSerie, addCapituloToSerie}
+const addResenaToSerie = async(req, res) => {
+    try {
+        const {id} = req.params; // id libro
+        const id_review = req.body.idReview;
+
+        const updatedSerie = await Serie.findByIdAndUpdate(
+            id,
+            { $push: { Resena: id_review } },
+            { new: true }
+        );
+        if (!updatedSerie) {
+            return res.status(404).json({ message: "Serie not found." });
+        }
+        return res.status(200).json(updatedSerie);
+    } catch (error) {
+        return res.status(500).json(error)
+    }
+}
+
+module.exports = {getSeries,getSeriesById,postSerie, putSerie, deleteSerie, addCapituloToSerie, addResenaToSerie}
