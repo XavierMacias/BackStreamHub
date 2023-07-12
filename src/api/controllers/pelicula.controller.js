@@ -27,11 +27,11 @@ const getPeliculaById = async(req,res)=>{
 
 const postPelicula = async(req,res) => {
     try {
-        console.log(req.file)
+        //console.log(req.file)
         const newPelicula = new Pelicula(req.body);
-        if(req.file){
-            newPelicula.Portada = req.file.path;
-        }
+        //if(req.file){
+        //    newPelicula.Portada = req.file.path;
+        //}
         const createdPelicula = await newPelicula.save();
         return res.status(201).json(createdPelicula);
     } catch (error) {

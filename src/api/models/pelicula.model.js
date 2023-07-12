@@ -8,7 +8,7 @@ const peliculaSchema = new Schema(
         Nombre: {type: String, required: true},
         Trailer: {type: String, required: true},
         Duracion: {type: Number, required: true},
-        Fecha: {type: Number, required: true},
+        Fecha: {type: Number},
         Genero: [{type: String}],
         Descripcion: {type: String, required: true},
         Valoracion: {type: Number},
